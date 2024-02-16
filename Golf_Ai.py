@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 # Set the random seed
 #np.random.seed(0)
 
-df = pd.read_excel('/Users/archie/Downloads/Masters_2021.xlsx', skiprows=1)
+df = pd.read_excel('Masters_2021.xlsx', skiprows=1)
 
 # Split the data into training set and test set
 train_df, test_df = train_test_split(df, test_size=0.2)
