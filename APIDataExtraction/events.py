@@ -20,10 +20,7 @@ for event in data:
     eventlist.append(event_item)
 
 
-    # with open('Scores.csv', 'w', newline='') as f:
-    # writer = csv.writer(f)
-    # writer.writerow(['Player', 'Finish'])
-    # writer.writerows(ourdata)
+
 
 with open('EventList.csv', 'w', newline='') as f:
     writer = csv.writer(f)
