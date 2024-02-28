@@ -19,6 +19,7 @@ def extract_data(api_data):
         player_name = score['player_name']
         course_name = score['round_1']['course_name']
         year_played = api_data['year']
+        date_completed = api_data['event_completed']
         
         scores = []
         sg_total = []
@@ -96,7 +97,7 @@ def extract_data(api_data):
             driving_distances.append(None)
             driving_accuracies.append(None)
         
-        extracted_data.append([player_name, course_name, year_played] + scores + sg_total + sg_app + sg_arg + sg_putt +
+        extracted_data.append([player_name, course_name, year_played, date_completed] + scores + sg_total + sg_app + sg_arg + sg_putt +
                               driving_distances + driving_accuracies)
     return extracted_data
 
@@ -109,7 +110,7 @@ def main(event_id, year, api_token):
         extracted_data = extract_data(api_data)
         with open('dataextractiontest2.csv', mode='w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(['Player Name', 'Course Name', 'Year Played', 
+            writer.writerow(['Player Name', 'Course Name', 'Year Played', 'Date Completed',
                              'Round 1 Score', 'Round 2 Score', 'Round 3 Score', 'Round 4 Score', 
                              'Round 1 SG Total', 'Round 2 SG Total', 'Round 3 SG Total', 'Round 4 SG Total', 
                              'Round 1 SG App', 'Round 2 SG App', 'Round 3 SG App', 'Round 4 SG App', 
