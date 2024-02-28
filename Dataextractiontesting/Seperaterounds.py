@@ -18,10 +18,10 @@ def extract_data(api_data):
         player_name = score['player_name']
         year_played = api_data['year']
         date_completed = api_data['event_completed']
-        
         for round_num in range(1, 5):
             round_data = score.get(f'round_{round_num}')
             if round_data:
+                course_par = round_data['course_par']
                 course_name = round_data['course_name']
                 score_val = round_data.get('score')
                 sg_total_val = round_data.get('sg_total')
@@ -31,6 +31,7 @@ def extract_data(api_data):
                 driving_dist_val = round_data.get('driving_dist')
                 driving_acc_val = round_data.get('driving_acc')
             else:
+                course_par = None
                 course_name = None
                 score_val = None
                 sg_total_val = None
@@ -40,7 +41,7 @@ def extract_data(api_data):
                 driving_dist_val = None
                 driving_acc_val = None
             
-            extracted_data.append([player_name, course_name, year_played, date_completed, score_val,
+            extracted_data.append([player_name, course_name, year_played, date_completed, course_par, score_val,
                                    sg_total_val, sg_app_val, sg_arg_val, sg_putt_val,
                                    driving_dist_val, driving_acc_val])
     return extracted_data
@@ -52,7 +53,7 @@ def main(event_id, year, api_token):
         extracted_data = extract_data(api_data)
         with open('Dataextractiontesting/dataextractiontest3.csv', mode='w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(['Player Name', 'Course Name', 'Year Played', 'Date Completed',
+            writer.writerow(['Player Name', 'Course Name', 'Year Played', 'Date Completed', 'Course Par',
                              'Round Score', 'Round SG Total', 'Round SG App', 'Round SG Arg', 'Round SG Putt',
                              'Round Driving Distance', 'Round Driving Accuracy'])
             for data_row in extracted_data:
