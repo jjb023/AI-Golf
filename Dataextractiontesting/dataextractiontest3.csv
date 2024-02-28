@@ -1,625 +1,745 @@
 Player Name,Course Name,Year Played,Date Completed,Course Par,Round Score,Round SG Total,Round SG App,Round SG Arg,Round SG Putt,Round Driving Distance,Round Driving Accuracy
-"Rahm, Jon",Torrey Pines (South),2021,2021-06-20,71,69,4.718,0.35,0.94,1.51,311.5,0.714
-"Rahm, Jon",Torrey Pines (South),2021,2021-06-20,71,70,3.787,1.26,1.3,1.33,315.7,0.357
-"Rahm, Jon",Torrey Pines (South),2021,2021-06-20,71,72,0.408,0.77,0.3,-1.7,316.8,0.429
-"Rahm, Jon",Torrey Pines (South),2021,2021-06-20,71,67,6.169,2.61,-0.27,2.48,323.1,0.571
-"Oosthuizen, Louis",Torrey Pines (South),2021,2021-06-20,71,67,6.718,1.27,1.52,3.16,301.6,0.643
-"Oosthuizen, Louis",Torrey Pines (South),2021,2021-06-20,71,71,2.787,0.06,0.87,1.33,304.8,0.5
-"Oosthuizen, Louis",Torrey Pines (South),2021,2021-06-20,71,70,2.408,0.21,-0.26,1.95,303.2,0.571
-"Oosthuizen, Louis",Torrey Pines (South),2021,2021-06-20,71,71,2.169,1.35,0.33,1.0,304.9,0.571
-"English, Harris",Torrey Pines (South),2021,2021-06-20,71,72,1.718,0.82,2.65,-0.69,292.4,0.357
-"English, Harris",Torrey Pines (South),2021,2021-06-20,71,70,3.787,2.08,0.95,0.87,299.9,0.357
-"English, Harris",Torrey Pines (South),2021,2021-06-20,71,71,1.408,0.64,0.17,0.17,295.7,0.643
-"English, Harris",Torrey Pines (South),2021,2021-06-20,71,68,5.169,0.42,0.06,3.7,303.4,0.643
-"Koepka, Brooks",Torrey Pines (South),2021,2021-06-20,71,69,4.718,1.37,-0.59,3.02,312.3,0.571
-"Koepka, Brooks",Torrey Pines (South),2021,2021-06-20,71,73,0.787,0.96,-0.52,0.4,308.0,0.357
-"Koepka, Brooks",Torrey Pines (South),2021,2021-06-20,71,71,1.408,0.32,0.58,-0.6,315.3,0.571
-"Koepka, Brooks",Torrey Pines (South),2021,2021-06-20,71,69,4.169,1.97,0.67,0.06,313.2,0.571
-"Migliozzi, Guido",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.5,0.95,-0.58,299.2,0.357
-"Migliozzi, Guido",Torrey Pines (South),2021,2021-06-20,71,70,3.787,3.15,1.92,-1.8,304.6,0.357
-"Migliozzi, Guido",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,-0.87,-0.47,-0.01,303.9,0.643
-"Migliozzi, Guido",Torrey Pines (South),2021,2021-06-20,71,68,5.169,-0.09,2.54,2.2,301.8,0.5
-"Morikawa, Collin",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,0.05,0.27,-2.52,299.2,0.714
-"Morikawa, Collin",Torrey Pines (South),2021,2021-06-20,71,67,6.787,1.98,0.74,2.47,300.7,0.786
-"Morikawa, Collin",Torrey Pines (South),2021,2021-06-20,71,70,2.408,1.05,-0.25,0.81,305.9,0.571
-"Morikawa, Collin",Torrey Pines (South),2021,2021-06-20,71,70,3.169,2.76,0.0,-1.18,306.5,0.786
-"Casey, Paul",Torrey Pines (South),2021,2021-06-20,71,71,2.718,0.01,0.51,0.42,311.6,0.714
-"Casey, Paul",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,0.61,1.01,-2.53,302.9,0.429
-"Casey, Paul",Torrey Pines (South),2021,2021-06-20,71,67,5.408,2.38,-0.1,3.16,307.5,0.429
-"Casey, Paul",Torrey Pines (South),2021,2021-06-20,71,70,3.169,1.55,1.83,-0.91,308.0,0.571
-"McIlroy, Rory",Torrey Pines (South),2021,2021-06-20,71,70,3.718,-0.01,1.72,0.67,323.8,0.429
-"McIlroy, Rory",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.13,0.48,-0.97,314.8,0.643
-"McIlroy, Rory",Torrey Pines (South),2021,2021-06-20,71,67,5.408,2.5,2.38,0.02,317.7,0.571
-"McIlroy, Rory",Torrey Pines (South),2021,2021-06-20,71,73,0.169,2.07,-0.29,-2.06,318.2,0.429
-"Grace, Branden",Torrey Pines (South),2021,2021-06-20,71,72,1.718,2.31,1.05,-3.3,304.8,0.786
-"Grace, Branden",Torrey Pines (South),2021,2021-06-20,71,70,3.787,1.76,2.28,-0.24,302.7,0.357
-"Grace, Branden",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,0.95,1.05,-2.93,301.8,0.571
-"Grace, Branden",Torrey Pines (South),2021,2021-06-20,71,67,6.169,1.37,0.46,3.85,303.5,0.214
-"Berger, Daniel",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.04,0.32,0.76,289.9,0.571
-"Berger, Daniel",Torrey Pines (South),2021,2021-06-20,71,72,1.787,1.65,-0.35,-0.28,293.8,0.714
-"Berger, Daniel",Torrey Pines (South),2021,2021-06-20,71,72,0.408,0.71,1.1,-2.04,297.3,0.714
-"Berger, Daniel",Torrey Pines (South),2021,2021-06-20,71,68,5.169,1.44,-0.17,3.63,299.4,0.429
-"Scheffler, Scottie",Torrey Pines (South),2021,2021-06-20,71,72,1.718,0.42,-0.81,4.06,298.1,0.143
-"Scheffler, Scottie",Torrey Pines (South),2021,2021-06-20,71,69,4.787,0.03,0.77,3.48,307.8,0.643
-"Scheffler, Scottie",Torrey Pines (South),2021,2021-06-20,71,70,2.408,0.99,0.63,0.83,304.1,0.571
-"Scheffler, Scottie",Torrey Pines (South),2021,2021-06-20,71,72,1.169,1.07,-1.59,0.1,308.8,0.786
-"Schauffele, Xander",Torrey Pines (South),2021,2021-06-20,71,69,4.718,2.12,1.22,-0.37,318.5,0.643
-"Schauffele, Xander",Torrey Pines (South),2021,2021-06-20,71,71,2.787,1.37,0.59,-0.46,313.6,0.5
-"Schauffele, Xander",Torrey Pines (South),2021,2021-06-20,71,72,0.408,0.95,-0.25,-1.63,318.1,0.643
-"Schauffele, Xander",Torrey Pines (South),2021,2021-06-20,71,71,2.169,-0.52,0.02,0.95,312.6,0.714
-"Molinari, Francesco",Torrey Pines (South),2021,2021-06-20,71,68,5.718,0.26,1.05,3.73,300.6,0.714
-"Molinari, Francesco",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,0.96,1.24,-3.56,297.1,0.286
-"Molinari, Francesco",Torrey Pines (South),2021,2021-06-20,71,69,3.408,0.79,0.92,2.34,299.3,0.429
-"Molinari, Francesco",Torrey Pines (South),2021,2021-06-20,71,71,2.169,0.35,0.34,1.27,303.1,0.429
-"Henley, Russell",Torrey Pines (South),2021,2021-06-20,71,67,6.718,3.01,-0.38,3.8,296.5,0.571
-"Henley, Russell",Torrey Pines (South),2021,2021-06-20,71,70,3.787,1.34,1.45,0.41,302.5,0.643
-"Henley, Russell",Torrey Pines (South),2021,2021-06-20,71,71,1.408,1.19,0.36,0.99,294.2,0.429
-"Henley, Russell",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,0.88,-0.06,-2.61,291.3,0.429
-"Streelman, Kevin",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.07,1.09,0.64,292.2,0.286
-"Streelman, Kevin",Torrey Pines (South),2021,2021-06-20,71,69,4.787,0.41,2.0,1.73,296.9,0.643
-"Streelman, Kevin",Torrey Pines (South),2021,2021-06-20,71,72,0.408,1.88,-1.02,-0.72,299.7,0.571
-"Streelman, Kevin",Torrey Pines (South),2021,2021-06-20,71,73,0.169,-1.31,1.34,1.16,291.0,0.429
-"Cantlay, Patrick",Torrey Pines (South),2021,2021-06-20,71,70,3.718,-1.91,2.05,2.24,310.4,0.571
-"Cantlay, Patrick",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-1.65,0.6,-0.9,313.3,0.429
-"Cantlay, Patrick",Torrey Pines (South),2021,2021-06-20,71,71,1.408,1.33,-0.09,0.12,306.0,0.5
-"Cantlay, Patrick",Torrey Pines (South),2021,2021-06-20,71,69,4.169,1.48,0.8,2.17,307.8,0.286
-"Hughes, Mackenzie",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-0.17,0.37,1.53,300.5,0.286
-"Hughes, Mackenzie",Torrey Pines (South),2021,2021-06-20,71,67,6.787,3.19,1.91,2.58,294.2,0.286
-"Hughes, Mackenzie",Torrey Pines (South),2021,2021-06-20,71,68,4.408,1.77,1.01,0.99,307.6,0.643
-"Hughes, Mackenzie",Torrey Pines (South),2021,2021-06-20,71,77,-3.831,-1.04,-1.31,-1.44,300.9,0.5
-"Wolff, Matthew",Torrey Pines (South),2021,2021-06-20,71,70,3.718,2.73,-0.95,0.43,319.7,0.429
-"Wolff, Matthew",Torrey Pines (South),2021,2021-06-20,71,68,5.787,1.6,0.1,2.1,328.5,0.429
-"Wolff, Matthew",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,-1.79,-0.47,1.65,321.6,0.214
-"Wolff, Matthew",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,-0.41,-2.11,0.76,320.9,0.429
-"Garcia, Sergio",Torrey Pines (South),2021,2021-06-20,71,71,2.718,1.17,0.71,-0.06,306.1,0.643
-"Garcia, Sergio",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,1.21,-0.63,-1.46,308.7,0.571
-"Garcia, Sergio",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,-0.64,-1.55,1.2,313.7,0.429
-"Garcia, Sergio",Torrey Pines (South),2021,2021-06-20,71,68,5.169,3.49,-0.12,2.62,314.2,0.429
-"Schwartzel, Charl",Torrey Pines (South),2021,2021-06-20,71,71,2.718,1.37,0.22,0.64,307.2,0.5
-"Schwartzel, Charl",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,0.43,0.11,0.2,300.4,0.214
-"Schwartzel, Charl",Torrey Pines (South),2021,2021-06-20,71,71,1.408,-1.57,2.17,0.38,305.5,0.571
-"Schwartzel, Charl",Torrey Pines (South),2021,2021-06-20,71,70,3.169,0.1,2.81,0.11,304.2,0.571
-"Harman, Brian",Torrey Pines (South),2021,2021-06-20,71,72,1.718,1.38,1.4,0.66,286.7,0.214
-"Harman, Brian",Torrey Pines (South),2021,2021-06-20,71,71,2.787,-2.03,3.03,0.98,298.1,0.714
-"Harman, Brian",Torrey Pines (South),2021,2021-06-20,71,71,1.408,1.94,0.62,-2.05,300.7,0.786
-"Harman, Brian",Torrey Pines (South),2021,2021-06-20,71,72,1.169,1.57,-1.24,1.06,296.8,0.643
-"Johnson, Dustin",Torrey Pines (South),2021,2021-06-20,71,71,2.718,0.96,0.36,0.29,314.9,0.357
-"Johnson, Dustin",Torrey Pines (South),2021,2021-06-20,71,73,0.787,1.78,-0.33,-0.71,311.0,0.286
-"Johnson, Dustin",Torrey Pines (South),2021,2021-06-20,71,68,4.408,-0.49,0.17,4.79,305.3,0.357
-"Johnson, Dustin",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,0.21,-0.92,-0.64,305.6,0.5
-"Thomas, Justin",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-0.29,-0.8,1.48,309.6,0.357
-"Thomas, Justin",Torrey Pines (South),2021,2021-06-20,71,69,4.787,-0.47,2.45,2.0,311.1,0.429
-"Thomas, Justin",Torrey Pines (South),2021,2021-06-20,71,71,1.408,1.12,0.37,-0.27,311.7,0.429
-"Thomas, Justin",Torrey Pines (South),2021,2021-06-20,71,73,0.169,-0.26,0.77,1.83,307.8,0.429
-"Spieth, Jordan",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-1.32,-1.54,0.42,298.5,0.286
-"Spieth, Jordan",Torrey Pines (South),2021,2021-06-20,71,69,4.787,1.24,1.69,1.58,305.2,0.5
-"Spieth, Jordan",Torrey Pines (South),2021,2021-06-20,71,68,4.408,5.87,-0.19,-1.55,307.2,0.571
-"Spieth, Jordan",Torrey Pines (South),2021,2021-06-20,71,72,1.169,-0.58,0.33,0.77,304.0,0.571
-"Reed, Patrick",Torrey Pines (South),2021,2021-06-20,71,72,1.718,-0.66,2.06,0.33,294.8,0.5
-"Reed, Patrick",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.57,0.98,0.34,298.0,0.571
-"Reed, Patrick",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,1.56,-0.09,-1.02,294.1,0.5
-"Reed, Patrick",Torrey Pines (South),2021,2021-06-20,71,67,6.169,0.76,0.66,2.69,309.8,0.857
-"Kaymer, Martin",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,0.3,-0.14,-1.61,294.4,0.214
-"Kaymer, Martin",Torrey Pines (South),2021,2021-06-20,71,68,5.787,2.71,-0.32,3.25,292.7,0.571
-"Kaymer, Martin",Torrey Pines (South),2021,2021-06-20,71,69,3.408,2.6,-0.33,2.45,286.8,0.5
-"Kaymer, Martin",Torrey Pines (South),2021,2021-06-20,71,73,0.169,1.8,0.44,-1.33,292.7,0.5
-"Matsuyama, Hideki",Torrey Pines (South),2021,2021-06-20,71,69,4.718,2.89,0.9,0.48,303.8,0.5
-"Matsuyama, Hideki",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,0.36,-0.8,-1.21,299.8,0.429
-"Matsuyama, Hideki",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,1.01,-0.02,-1.59,302.2,0.571
-"Matsuyama, Hideki",Torrey Pines (South),2021,2021-06-20,71,68,5.169,0.69,0.79,3.04,303.7,0.643
-"Baker, Chris",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,0.38,-2.0,2.4,296.5,0.429
-"Baker, Chris",Torrey Pines (South),2021,2021-06-20,71,71,2.787,1.17,0.23,0.84,300.2,0.643
-"Baker, Chris",Torrey Pines (South),2021,2021-06-20,71,69,3.408,0.76,-1.13,3.96,296.9,0.5
-"Baker, Chris",Torrey Pines (South),2021,2021-06-20,71,73,0.169,0.3,1.91,-0.7,297.5,0.286
-"Hoshino, Rikuya",Torrey Pines (South),2021,2021-06-20,71,69,4.718,4.2,-0.14,0.62,300.0,0.5
-"Hoshino, Rikuya",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,1.03,-0.78,0.59,297.1,0.357
-"Hoshino, Rikuya",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,-0.37,-1.33,-0.12,313.4,0.643
-"Hoshino, Rikuya",Torrey Pines (South),2021,2021-06-20,71,71,2.169,2.93,0.8,-0.08,310.1,0.571
-"DeChambeau, Bryson",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-1.56,-1.65,1.91,333.9,0.571
-"DeChambeau, Bryson",Torrey Pines (South),2021,2021-06-20,71,69,4.787,2.36,-1.66,2.38,327.8,0.571
-"DeChambeau, Bryson",Torrey Pines (South),2021,2021-06-20,71,68,4.408,2.63,-0.61,1.94,334.7,0.357
-"DeChambeau, Bryson",Torrey Pines (South),2021,2021-06-20,71,77,-3.831,1.79,-4.08,-0.92,321.1,0.214
-"Rodgers, Patrick",Torrey Pines (South),2021,2021-06-20,71,70,3.718,-0.55,-1.51,4.25,319.3,0.714
-"Rodgers, Patrick",Torrey Pines (South),2021,2021-06-20,71,71,2.787,1.9,-0.02,0.5,320.7,0.571
-"Rodgers, Patrick",Torrey Pines (South),2021,2021-06-20,71,77,-4.592,-3.01,-2.12,-0.16,314.2,0.429
-"Rodgers, Patrick",Torrey Pines (South),2021,2021-06-20,71,70,3.169,0.28,0.58,1.93,322.3,0.286
-"Niemann, Joaquin",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.25,-1.77,1.09,314.6,0.429
-"Niemann, Joaquin",Torrey Pines (South),2021,2021-06-20,71,69,4.787,2.87,0.44,0.01,318.9,0.643
-"Niemann, Joaquin",Torrey Pines (South),2021,2021-06-20,71,71,1.408,2.12,0.0,-1.38,317.7,0.429
-"Niemann, Joaquin",Torrey Pines (South),2021,2021-06-20,71,73,0.169,-0.48,0.39,-0.62,317.9,0.5
-"Bezuidenhout, Christiaan",Torrey Pines (South),2021,2021-06-20,71,72,1.718,-1.04,1.78,1.29,290.4,0.429
-"Bezuidenhout, Christiaan",Torrey Pines (South),2021,2021-06-20,71,70,3.787,2.01,-0.69,2.05,299.4,0.571
-"Bezuidenhout, Christiaan",Torrey Pines (South),2021,2021-06-20,71,70,2.408,2.51,-0.17,0.73,296.1,0.643
-"Bezuidenhout, Christiaan",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,0.44,0.44,-2.58,289.5,0.571
-"Wu, Dylan",Torrey Pines (South),2021,2021-06-20,71,70,3.718,1.64,0.95,1.32,296.5,0.5
-"Wu, Dylan",Torrey Pines (South),2021,2021-06-20,71,73,0.787,0.17,1.99,-0.4,300.5,0.214
-"Wu, Dylan",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,-1.73,0.94,0.05,299.4,0.286
-"Wu, Dylan",Torrey Pines (South),2021,2021-06-20,71,71,2.169,-0.42,1.17,0.99,306.6,0.571
-"Scott, Adam",Torrey Pines (South),2021,2021-06-20,71,70,3.718,-0.25,0.52,2.53,307.8,0.571
-"Scott, Adam",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-0.39,-0.72,0.46,306.4,0.214
-"Scott, Adam",Torrey Pines (South),2021,2021-06-20,71,71,1.408,-0.73,0.75,2.09,305.4,0.214
-"Scott, Adam",Torrey Pines (South),2021,2021-06-20,71,73,0.169,-0.5,0.63,-0.76,305.6,0.643
-"Molinari, Edoardo",Torrey Pines (South),2021,2021-06-20,71,70,3.718,0.43,0.79,2.49,299.3,0.5
-"Molinari, Edoardo",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-1.28,-0.49,0.13,290.9,0.5
-"Molinari, Edoardo",Torrey Pines (South),2021,2021-06-20,71,72,0.408,2.37,-2.48,-0.02,301.9,0.571
-"Molinari, Edoardo",Torrey Pines (South),2021,2021-06-20,71,71,2.169,1.77,0.36,-0.71,305.5,0.643
-"Griffin, Lanto",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-1.11,-0.28,-1.57,306.4,0.643
-"Griffin, Lanto",Torrey Pines (South),2021,2021-06-20,71,69,4.787,4.32,-0.04,0.65,304.1,0.429
-"Griffin, Lanto",Torrey Pines (South),2021,2021-06-20,71,69,3.408,2.93,1.91,-0.7,298.4,0.429
-"Griffin, Lanto",Torrey Pines (South),2021,2021-06-20,71,75,-1.831,-1.71,-1.79,1.54,303.3,0.429
-"Im, Sungjae",Torrey Pines (South),2021,2021-06-20,71,72,1.718,0.69,-0.06,0.52,300.9,0.571
-"Im, Sungjae",Torrey Pines (South),2021,2021-06-20,71,72,1.787,-1.9,1.14,1.61,303.4,0.714
-"Im, Sungjae",Torrey Pines (South),2021,2021-06-20,71,69,3.408,2.29,1.13,0.58,290.4,0.5
-"Im, Sungjae",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,0.13,-0.97,-1.09,296.4,0.429
-"MacIntyre, Robert",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.84,-0.01,-0.65,303.8,0.571
-"MacIntyre, Robert",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.55,0.66,0.6,305.1,0.429
-"MacIntyre, Robert",Torrey Pines (South),2021,2021-06-20,71,72,0.408,0.05,2.31,-1.09,299.7,0.429
-"MacIntyre, Robert",Torrey Pines (South),2021,2021-06-20,71,73,0.169,0.21,-1.05,-0.13,315.2,0.571
-"Poulter, Ian",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-1.44,-0.78,1.23,290.9,0.786
-"Poulter, Ian",Torrey Pines (South),2021,2021-06-20,71,71,2.787,1.54,0.5,1.43,294.4,0.429
-"Poulter, Ian",Torrey Pines (South),2021,2021-06-20,71,68,4.408,0.08,0.82,2.96,294.9,0.714
-"Poulter, Ian",Torrey Pines (South),2021,2021-06-20,71,77,-3.831,-1.87,-1.42,-0.48,293.5,0.643
-"Ormsby, Wade",Torrey Pines (South),2021,2021-06-20,71,72,1.718,1.48,0.21,0.86,285.6,0.5
-"Ormsby, Wade",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,1.18,-0.7,-1.46,288.1,0.857
-"Ormsby, Wade",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,0.84,-1.11,0.86,287.0,0.571
-"Ormsby, Wade",Torrey Pines (South),2021,2021-06-20,71,71,2.169,-0.25,2.0,0.54,289.4,0.786
-"Reavie, Chez",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,1.65,-1.36,-2.89,288.5,0.643
-"Reavie, Chez",Torrey Pines (South),2021,2021-06-20,71,68,5.787,3.09,1.35,-0.03,289.4,0.929
-"Reavie, Chez",Torrey Pines (South),2021,2021-06-20,71,72,0.408,-1.59,2.96,-0.21,285.5,0.714
-"Reavie, Chez",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,1.88,-1.25,-0.96,285.3,0.714
-"Hadwin, Adam",Torrey Pines (South),2021,2021-06-20,71,70,3.718,1.62,0.4,2.37,293.7,0.643
-"Hadwin, Adam",Torrey Pines (South),2021,2021-06-20,71,72,1.787,-1.07,1.32,0.98,295.4,0.643
-"Hadwin, Adam",Torrey Pines (South),2021,2021-06-20,71,75,-2.592,-2.68,-1.49,3.39,293.8,0.5
-"Hadwin, Adam",Torrey Pines (South),2021,2021-06-20,71,73,0.169,-0.66,-0.23,1.54,298.8,0.357
-"Kim, Si Woo",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.52,0.21,-0.58,300.2,0.571
-"Kim, Si Woo",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,0.63,-1.32,-1.3,301.7,0.643
-"Kim, Si Woo",Torrey Pines (South),2021,2021-06-20,71,70,2.408,-0.42,0.48,0.52,307.4,0.857
-"Kim, Si Woo",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,-0.26,0.36,-1.19,301.7,0.571
-"Poston, J.T.",Torrey Pines (South),2021,2021-06-20,71,72,1.718,2.11,-1.05,0.97,293.0,0.571
-"Poston, J.T.",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-1.0,0.71,-0.25,299.4,0.786
-"Poston, J.T.",Torrey Pines (South),2021,2021-06-20,71,71,1.408,-0.9,1.76,1.02,300.3,0.5
-"Poston, J.T.",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,-1.32,-0.63,2.72,296.0,0.214
-"Westwood, Lee",Torrey Pines (South),2021,2021-06-20,71,71,2.718,1.01,-0.68,1.54,300.3,0.643
-"Westwood, Lee",Torrey Pines (South),2021,2021-06-20,71,72,1.787,0.3,-0.06,0.66,302.2,0.714
-"Westwood, Lee",Torrey Pines (South),2021,2021-06-20,71,71,1.408,1.58,0.57,-0.84,301.7,0.5
-"Westwood, Lee",Torrey Pines (South),2021,2021-06-20,71,77,-3.831,-3.83,-0.57,0.65,298.6,0.571
-"Frittelli, Dylan",Torrey Pines (South),2021,2021-06-20,71,73,0.718,0.4,1.29,-2.2,316.8,0.571
-"Frittelli, Dylan",Torrey Pines (South),2021,2021-06-20,71,72,1.787,0.03,-0.6,0.84,309.3,0.643
-"Frittelli, Dylan",Torrey Pines (South),2021,2021-06-20,71,72,0.408,-2.29,-0.83,4.21,313.6,0.143
-"Frittelli, Dylan",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,-1.54,-1.4,2.56,316.7,0.286
-"Hoge, Tom",Torrey Pines (South),2021,2021-06-20,71,72,1.718,-0.83,-0.64,2.36,294.5,0.786
-"Hoge, Tom",Torrey Pines (South),2021,2021-06-20,71,71,2.787,2.54,0.22,-0.74,295.1,0.714
-"Hoge, Tom",Torrey Pines (South),2021,2021-06-20,71,76,-3.592,-0.65,-0.14,-2.26,287.0,0.571
-"Hoge, Tom",Torrey Pines (South),2021,2021-06-20,71,72,1.169,0.43,0.56,0.6,289.8,0.571
-"Lamb, Rick",Torrey Pines (South),2021,2021-06-20,71,71,2.718,1.62,-0.37,1.84,293.4,0.5
-"Lamb, Rick",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-1.93,-3.21,3.08,306.8,0.714
-"Lamb, Rick",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,-0.61,-1.85,1.15,300.5,0.5
-"Lamb, Rick",Torrey Pines (South),2021,2021-06-20,71,71,2.169,0.23,-1.14,2.0,306.8,0.571
-"Bland, Richard",Torrey Pines (South),2021,2021-06-20,71,70,3.718,1.14,0.78,1.99,290.4,0.643
-"Bland, Richard",Torrey Pines (South),2021,2021-06-20,71,67,6.787,1.44,0.26,4.67,291.4,0.714
-"Bland, Richard",Torrey Pines (South),2021,2021-06-20,71,77,-4.592,-3.45,-0.09,-1.25,290.0,0.714
-"Bland, Richard",Torrey Pines (South),2021,2021-06-20,71,78,-4.831,-3.93,0.93,-2.93,294.7,0.786
-"Watson, Bubba",Torrey Pines (South),2021,2021-06-20,71,72,1.718,1.25,0.25,-0.29,304.5,0.5
-"Watson, Bubba",Torrey Pines (South),2021,2021-06-20,71,67,6.787,0.89,1.24,3.59,308.4,0.643
-"Watson, Bubba",Torrey Pines (South),2021,2021-06-20,71,77,-4.592,-2.22,-0.81,-2.6,308.4,0.643
-"Watson, Bubba",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,-1.37,0.08,-0.98,303.1,0.357
-"Cabrera Bello, Rafa",Torrey Pines (South),2021,2021-06-20,71,68,5.718,0.36,2.28,2.24,299.2,0.643
-"Cabrera Bello, Rafa",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-1.99,-0.24,0.76,297.1,0.5
-"Cabrera Bello, Rafa",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,0.2,-0.54,-0.02,295.2,0.214
-"Cabrera Bello, Rafa",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,-0.19,-0.38,-1.1,298.2,0.786
-"Fleetwood, Tommy",Torrey Pines (South),2021,2021-06-20,71,72,1.718,0.99,-0.54,1.78,299.5,0.357
-"Fleetwood, Tommy",Torrey Pines (South),2021,2021-06-20,71,73,0.787,1.59,0.42,-0.2,303.2,0.214
-"Fleetwood, Tommy",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,-0.64,-1.31,-0.15,309.6,0.5
-"Fleetwood, Tommy",Torrey Pines (South),2021,2021-06-20,71,73,0.169,-1.7,-0.51,2.41,303.0,0.429
-"Woodland, Gary",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-1.03,-0.55,-1.13,315.5,0.786
-"Woodland, Gary",Torrey Pines (South),2021,2021-06-20,71,71,2.787,1.49,-0.92,1.27,312.5,0.429
-"Woodland, Gary",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,-0.3,-0.93,-0.47,306.3,0.714
-"Woodland, Gary",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,-0.83,1.06,-1.15,313.2,0.429
-"Kisner, Kevin",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-0.79,-0.78,1.93,294.2,0.571
-"Kisner, Kevin",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.84,1.42,1.42,290.2,0.286
-"Kisner, Kevin",Torrey Pines (South),2021,2021-06-20,71,72,0.408,0.45,0.22,-0.26,291.5,0.643
-"Kisner, Kevin",Torrey Pines (South),2021,2021-06-20,71,75,-1.831,-1.41,-0.04,0.26,295.0,0.5
-"Fitzpatrick, Matt",Torrey Pines (South),2021,2021-06-20,71,70,3.718,3.28,0.86,-0.94,310.8,0.5
-"Fitzpatrick, Matt",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-0.49,-0.32,-1.94,310.7,0.786
-"Fitzpatrick, Matt",Torrey Pines (South),2021,2021-06-20,71,72,0.408,-0.76,0.23,-0.02,305.7,0.643
-"Fitzpatrick, Matt",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,-0.78,-1.21,-0.34,300.9,0.357
-"Cink, Stewart",Torrey Pines (South),2021,2021-06-20,71,73,0.718,1.67,-1.82,2.21,295.5,0.214
-"Cink, Stewart",Torrey Pines (South),2021,2021-06-20,71,72,1.787,1.79,1.12,-1.89,311.4,0.5
-"Cink, Stewart",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,-2.82,-0.14,0.44,308.0,0.643
-"Cink, Stewart",Torrey Pines (South),2021,2021-06-20,71,75,-1.831,-0.46,0.55,-1.04,305.7,0.286
-"Hoffman, Charley",Torrey Pines (South),2021,2021-06-20,71,72,1.718,-0.08,-0.36,1.89,307.7,0.429
-"Hoffman, Charley",Torrey Pines (South),2021,2021-06-20,71,71,2.787,0.37,-0.28,2.86,307.7,0.286
-"Hoffman, Charley",Torrey Pines (South),2021,2021-06-20,71,75,-2.592,-1.62,0.2,-2.22,312.9,0.571
-"Hoffman, Charley",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,-0.84,0.21,-2.25,310.8,0.429
-"Vegas, Jhonattan",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,2.94,-0.98,-4.5,313.1,0.571
-"Vegas, Jhonattan",Torrey Pines (South),2021,2021-06-20,71,69,4.787,1.45,-0.31,2.77,314.9,0.429
-"Vegas, Jhonattan",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,-0.54,0.52,-2.08,314.0,0.429
-"Vegas, Jhonattan",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,-0.85,0.67,-2.07,313.6,0.429
-"Montgomery, Taylor",Torrey Pines (South),2021,2021-06-20,71,70,3.718,-1.13,0.08,4.59,302.6,0.5
-"Montgomery, Taylor",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-0.87,-2.03,-1.14,314.2,0.643
-"Montgomery, Taylor",Torrey Pines (South),2021,2021-06-20,71,74,-1.592,-3.62,-0.34,0.92,316.7,0.643
-"Montgomery, Taylor",Torrey Pines (South),2021,2021-06-20,71,74,-0.831,-2.48,-1.37,2.62,310.4,0.5
-"Bhatia, Akshay",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-1.16,1.45,-0.03,301.1,0.571
-"Bhatia, Akshay",Torrey Pines (South),2021,2021-06-20,71,73,0.787,0.54,-0.26,0.77,298.4,0.5
-"Bhatia, Akshay",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,-0.72,-0.05,-0.2,309.4,0.5
-"Bhatia, Akshay",Torrey Pines (South),2021,2021-06-20,71,75,-1.831,0.15,1.22,-2.65,304.0,0.571
-"Mickelson, Phil",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.57,1.36,-1.83,296.4,0.571
-"Mickelson, Phil",Torrey Pines (South),2021,2021-06-20,71,69,4.787,0.28,1.33,2.06,307.0,0.643
-"Mickelson, Phil",Torrey Pines (South),2021,2021-06-20,71,76,-3.592,1.44,-1.67,-2.62,294.1,0.429
-"Mickelson, Phil",Torrey Pines (South),2021,2021-06-20,71,75,-1.831,0.62,0.07,-2.21,300.0,0.429
-"Sigg, Greyson",Torrey Pines (South),2021,2021-06-20,71,71,2.718,3.54,-1.49,-0.25,304.7,0.571
-"Sigg, Greyson",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,-0.28,-0.5,0.34,303.9,0.357
-"Sigg, Greyson",Torrey Pines (South),2021,2021-06-20,71,75,-2.592,-1.89,0.68,-1.04,302.9,0.429
-"Sigg, Greyson",Torrey Pines (South),2021,2021-06-20,71,75,-1.831,-1.06,1.63,-2.56,308.5,0.429
-"Leishman, Marc",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-0.2,0.07,-0.01,293.1,0.571
-"Leishman, Marc",Torrey Pines (South),2021,2021-06-20,71,70,3.787,1.52,-1.12,3.76,296.0,0.429
-"Leishman, Marc",Torrey Pines (South),2021,2021-06-20,71,75,-2.592,-1.31,-0.29,-1.08,300.5,0.571
-"Leishman, Marc",Torrey Pines (South),2021,2021-06-20,71,77,-3.831,0.48,-0.53,-2.25,297.3,0.143
-"Jones, Matt",Torrey Pines (South),2021,2021-06-20,71,72,1.718,-1.03,2.21,0.77,304.9,0.357
-"Jones, Matt",Torrey Pines (South),2021,2021-06-20,71,71,2.787,0.24,2.55,0.95,297.9,0.357
-"Jones, Matt",Torrey Pines (South),2021,2021-06-20,71,79,-6.592,-3.99,-0.24,-1.77,305.3,0.429
-"Jones, Matt",Torrey Pines (South),2021,2021-06-20,71,75,-1.831,-0.53,0.96,-2.3,309.7,0.429
-"Merritt, Troy",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-2.48,0.54,0.98,291.5,0.5
-"Merritt, Troy",Torrey Pines (South),2021,2021-06-20,71,71,2.787,1.35,0.78,0.01,294.1,0.714
-"Merritt, Troy",Torrey Pines (South),2021,2021-06-20,71,73,-0.592,1.69,0.14,-0.66,290.2,0.357
-"Merritt, Troy",Torrey Pines (South),2021,2021-06-20,71,78,-4.831,-1.81,-1.4,-0.01,289.1,0.357
-"Lowry, Shane",Torrey Pines (South),2021,2021-06-20,71,72,1.718,3.39,0.84,-1.46,297.0,0.5
-"Lowry, Shane",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,1.75,-0.14,-1.05,306.0,0.286
-"Lowry, Shane",Torrey Pines (South),2021,2021-06-20,71,72,0.408,-0.15,0.85,0.28,302.8,0.429
-"Lowry, Shane",Torrey Pines (South),2021,2021-06-20,71,79,-5.831,-0.82,-1.34,-2.9,302.1,0.5
-"Westmoreland, Kyle",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.45,0.19,0.33,316.8,0.143
-"Westmoreland, Kyle",Torrey Pines (South),2021,2021-06-20,71,73,0.787,1.0,0.32,0.59,317.2,0.214
-"Westmoreland, Kyle",Torrey Pines (South),2021,2021-06-20,71,78,-5.592,-2.67,-3.56,0.76,317.5,0.286
-"Westmoreland, Kyle",Torrey Pines (South),2021,2021-06-20,71,76,-2.831,1.08,-2.41,-2.1,323.9,0.429
-"Nienaber, Wilco",Torrey Pines (South),2021,2021-06-20,71,72,1.718,0.8,-0.3,-1.02,333.1,0.429
-"Nienaber, Wilco",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,-1.01,0.84,-1.8,347.6,0.357
-"Nienaber, Wilco",Torrey Pines (South),2021,2021-06-20,71,80,-7.592,-2.5,-2.76,-2.11,330.4,0.214
-"Nienaber, Wilco",Torrey Pines (South),2021,2021-06-20,71,72,1.169,0.31,-0.41,1.32,334.5,0.429
-"Walker, Jimmy",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-0.66,1.13,-1.02,299.3,0.571
-"Walker, Jimmy",Torrey Pines (South),2021,2021-06-20,71,72,1.787,-0.65,-0.33,4.04,297.0,0.286
-"Walker, Jimmy",Torrey Pines (South),2021,2021-06-20,71,77,-4.592,0.32,-2.87,-0.35,298.1,0.214
-"Walker, Jimmy",Torrey Pines (South),2021,2021-06-20,71,80,-6.831,-3.47,-2.09,-1.65,312.1,0.5
-"Gomez, Fabian",Torrey Pines (South),2021,2021-06-20,71,70,3.718,1.29,-0.35,3.35,287.4,0.5
-"Gomez, Fabian",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,1.3,-0.17,-0.67,285.3,0.357
-"Gomez, Fabian",Torrey Pines (South),2021,2021-06-20,71,78,-5.592,-5.13,1.59,-1.44,285.1,0.571
-"Gomez, Fabian",Torrey Pines (South),2021,2021-06-20,71,79,-5.831,-1.03,0.62,-4.23,284.1,0.5
-"Wiesberger, Bernd",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,2.46,-0.79,-2.31,299.2,0.429
-"Wiesberger, Bernd",Torrey Pines (South),2021,2021-06-20,71,72,1.787,2.07,0.59,-0.79,301.8,0.429
-"Wiesberger, Bernd",,2021,2021-06-20,,,,,,,,
-"Wiesberger, Bernd",,2021,2021-06-20,,,,,,,,
-"Steele, Brendan",Torrey Pines (South),2021,2021-06-20,71,73,0.718,0.17,0.47,0.32,296.3,0.5
-"Steele, Brendan",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,-0.78,-1.31,1.64,300.1,0.571
-"Steele, Brendan",,2021,2021-06-20,,,,,,,,
-"Steele, Brendan",,2021,2021-06-20,,,,,,,,
-"Detry, Thomas",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.0,-0.56,1.86,303.5,0.214
-"Detry, Thomas",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-1.83,-0.02,0.62,311.4,0.357
-"Detry, Thomas",,2021,2021-06-20,,,,,,,,
-"Detry, Thomas",,2021,2021-06-20,,,,,,,,
-"Smith, Cameron",Torrey Pines (South),2021,2021-06-20,71,72,1.718,0.53,-0.57,1.76,296.7,0.5
-"Smith, Cameron",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,2.13,-5.25,1.75,304.2,0.571
-"Smith, Cameron",,2021,2021-06-20,,,,,,,,
-"Smith, Cameron",,2021,2021-06-20,,,,,,,,
-"Ryder, Sam",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-2.57,-1.35,1.09,297.6,0.429
-"Ryder, Sam",Torrey Pines (South),2021,2021-06-20,71,70,3.787,0.53,2.26,1.59,295.4,0.357
-"Ryder, Sam",,2021,2021-06-20,,,,,,,,
-"Ryder, Sam",,2021,2021-06-20,,,,,,,,
-"van Rooyen, Erik",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,1.37,-0.45,-0.26,296.4,0.286
-"van Rooyen, Erik",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.98,-0.52,2.92,303.0,0.214
-"van Rooyen, Erik",,2021,2021-06-20,,,,,,,,
-"van Rooyen, Erik",,2021,2021-06-20,,,,,,,,
-"Pendrith, Taylor",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.76,0.38,-1.11,325.8,0.357
-"Pendrith, Taylor",Torrey Pines (South),2021,2021-06-20,71,72,1.787,-1.67,2.07,-0.8,322.0,0.714
-"Pendrith, Taylor",,2021,2021-06-20,,,,,,,,
-"Pendrith, Taylor",,2021,2021-06-20,,,,,,,,
-"Armitage, Marcus",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.19,0.98,-0.81,298.4,0.571
-"Armitage, Marcus",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-2.01,0.4,-0.78,303.6,0.571
-"Armitage, Marcus",,2021,2021-06-20,,,,,,,,
-"Armitage, Marcus",,2021,2021-06-20,,,,,,,,
-"Kozan, Andrew",Torrey Pines (South),2021,2021-06-20,71,71,2.718,2.58,0.19,0.8,293.4,0.286
-"Kozan, Andrew",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-2.37,-1.19,1.04,301.9,0.571
-"Kozan, Andrew",,2021,2021-06-20,,,,,,,,
-"Kozan, Andrew",,2021,2021-06-20,,,,,,,,
-"Burns, Sam",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-3.0,1.19,2.89,306.4,0.286
-"Burns, Sam",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,1.39,-0.69,-1.19,305.8,0.5
-"Burns, Sam",,2021,2021-06-20,,,,,,,,
-"Burns, Sam",,2021,2021-06-20,,,,,,,,
-"Zaback, Zach",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.06,1.6,-1.84,295.0,0.571
-"Zaback, Zach",Torrey Pines (South),2021,2021-06-20,71,72,1.787,2.39,-0.99,0.86,298.3,0.357
-"Zaback, Zach",,2021,2021-06-20,,,,,,,,
-"Zaback, Zach",,2021,2021-06-20,,,,,,,,
-"Clark, Wyndham",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,0.55,-1.93,-0.7,319.3,0.357
-"Clark, Wyndham",Torrey Pines (South),2021,2021-06-20,71,72,1.787,-0.6,-0.61,2.65,319.2,0.357
-"Clark, Wyndham",,2021,2021-06-20,,,,,,,,
-"Clark, Wyndham",,2021,2021-06-20,,,,,,,,
-"Kuchar, Matt",Torrey Pines (South),2021,2021-06-20,71,73,0.718,0.23,2.38,-1.55,288.4,0.5
-"Kuchar, Matt",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-1.46,1.86,-0.19,288.9,0.571
-"Kuchar, Matt",,2021,2021-06-20,,,,,,,,
-"Kuchar, Matt",,2021,2021-06-20,,,,,,,,
-"Johnson, Zach",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,0.62,1.09,-1.49,285.2,0.643
-"Johnson, Zach",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.62,-0.17,0.78,294.2,0.714
-"Johnson, Zach",,2021,2021-06-20,,,,,,,,
-"Johnson, Zach",,2021,2021-06-20,,,,,,,,
-"Ortiz, Carlos",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.75,-1.14,0.67,310.4,0.643
-"Ortiz, Carlos",Torrey Pines (South),2021,2021-06-20,71,73,0.787,2.22,-0.45,-1.2,307.1,0.429
-"Ortiz, Carlos",,2021,2021-06-20,,,,,,,,
-"Ortiz, Carlos",,2021,2021-06-20,,,,,,,,
-"Hatton, Tyrrell",Torrey Pines (South),2021,2021-06-20,71,70,3.718,0.78,2.05,1.08,310.5,0.286
-"Hatton, Tyrrell",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,-2.94,1.66,-3.5,310.7,0.357
-"Hatton, Tyrrell",,2021,2021-06-20,,,,,,,,
-"Hatton, Tyrrell",,2021,2021-06-20,,,,,,,,
-"Conners, Corey",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.52,0.78,-1.97,304.9,0.714
-"Conners, Corey",Torrey Pines (South),2021,2021-06-20,71,73,0.787,0.31,2.48,-2.31,297.7,0.571
-"Conners, Corey",,2021,2021-06-20,,,,,,,,
-"Conners, Corey",,2021,2021-06-20,,,,,,,,
-"Veerman, Johannes",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-0.49,0.32,1.49,303.9,0.214
-"Veerman, Johannes",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-2.35,-0.28,1.57,307.2,0.357
-"Veerman, Johannes",,2021,2021-06-20,,,,,,,,
-"Veerman, Johannes",,2021,2021-06-20,,,,,,,,
-"Wallace, Matt",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-1.59,0.45,0.62,308.0,0.5
-"Wallace, Matt",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,-0.17,2.09,-2.24,306.3,0.5
-"Wallace, Matt",,2021,2021-06-20,,,,,,,,
-"Wallace, Matt",,2021,2021-06-20,,,,,,,,
-"Munoz, Sebastian",Torrey Pines (South),2021,2021-06-20,71,71,2.718,0.68,2.47,0.32,295.0,0.286
-"Munoz, Sebastian",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,2.29,-0.93,-3.28,294.3,0.357
-"Munoz, Sebastian",,2021,2021-06-20,,,,,,,,
-"Munoz, Sebastian",,2021,2021-06-20,,,,,,,,
-"Higgo, Garrick",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,0.18,-1.68,-1.57,309.5,0.429
-"Higgo, Garrick",Torrey Pines (South),2021,2021-06-20,71,72,1.787,0.06,0.4,0.14,317.6,0.5
-"Higgo, Garrick",,2021,2021-06-20,,,,,,,,
-"Higgo, Garrick",,2021,2021-06-20,,,,,,,,
-"Osborne, Ollie",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-0.17,-2.15,-1.06,323.8,0.429
-"Osborne, Ollie",Torrey Pines (South),2021,2021-06-20,71,72,1.787,1.12,0.89,-1.17,317.3,0.357
-"Osborne, Ollie",,2021,2021-06-20,,,,,,,,
-"Osborne, Ollie",,2021,2021-06-20,,,,,,,,
-"Ralston, Spencer",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.41,0.11,0.86,291.0,0.429
-"Ralston, Spencer",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.92,0.55,0.81,298.4,0.429
-"Ralston, Spencer",,2021,2021-06-20,,,,,,,,
-"Ralston, Spencer",,2021,2021-06-20,,,,,,,,
-"Horschel, Billy",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,2.24,0.09,-3.23,297.4,0.643
-"Horschel, Billy",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,0.52,-1.47,-1.3,304.4,0.714
-"Horschel, Billy",,2021,2021-06-20,,,,,,,,
-"Horschel, Billy",,2021,2021-06-20,,,,,,,,
-"Todd, Brendon",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,-1.83,1.24,-2.64,273.8,0.643
-"Todd, Brendon",Torrey Pines (South),2021,2021-06-20,71,71,2.787,0.97,-0.18,2.64,274.0,0.786
-"Todd, Brendon",,2021,2021-06-20,,,,,,,,
-"Todd, Brendon",,2021,2021-06-20,,,,,,,,
-"Sucher, Zack",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-0.13,1.2,-1.4,288.2,0.357
-"Sucher, Zack",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,0.1,-0.14,0.68,295.6,0.357
-"Sucher, Zack",,2021,2021-06-20,,,,,,,,
-"Sucher, Zack",,2021,2021-06-20,,,,,,,,
-"Johnson, Michael",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-0.05,0.04,-0.31,304.8,0.5
-"Johnson, Michael",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-1.73,-0.31,1.72,302.1,0.286
-"Johnson, Michael",,2021,2021-06-20,,,,,,,,
-"Johnson, Michael",,2021,2021-06-20,,,,,,,,
-"Homa, Max",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,1.22,-0.19,-3.95,293.3,0.5
-"Homa, Max",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.72,-0.89,1.5,298.7,0.643
-"Homa, Max",,2021,2021-06-20,,,,,,,,
-"Homa, Max",,2021,2021-06-20,,,,,,,,
-"Smith, Jordan L",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-1.68,-1.64,-0.99,310.3,0.643
-"Smith, Jordan L",Torrey Pines (South),2021,2021-06-20,71,72,1.787,0.78,1.8,0.31,301.6,0.143
-"Smith, Jordan L",,2021,2021-06-20,,,,,,,,
-"Smith, Jordan L",,2021,2021-06-20,,,,,,,,
-"Zalatoris, Will",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,0.67,-0.42,-1.92,318.1,0.357
-"Zalatoris, Will",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,1.36,-1.39,-1.16,318.6,0.5
-"Zalatoris, Will",,2021,2021-06-20,,,,,,,,
-"Zalatoris, Will",,2021,2021-06-20,,,,,,,,
-"Theegala, Sahith",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,1.32,0.08,-1.22,298.5,0.429
-"Theegala, Sahith",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-1.92,-1.87,3.79,307.1,0.5
-"Theegala, Sahith",,2021,2021-06-20,,,,,,,,
-"Theegala, Sahith",,2021,2021-06-20,,,,,,,,
-"Highsmith, Joe",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-1.26,1.21,-2.21,308.6,0.357
-"Highsmith, Joe",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.47,0.49,-0.46,317.3,0.5
-"Highsmith, Joe",,2021,2021-06-20,,,,,,,,
-"Highsmith, Joe",,2021,2021-06-20,,,,,,,,
-"Na, Kevin",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-0.42,-0.47,-1.47,285.9,0.571
-"Na, Kevin",Torrey Pines (South),2021,2021-06-20,71,73,0.787,0.1,1.81,1.94,282.6,0.357
-"Na, Kevin",,2021,2021-06-20,,,,,,,,
-"Na, Kevin",,2021,2021-06-20,,,,,,,,
-"Palmer, Ryan",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,1.64,0.13,-4.91,311.7,0.5
-"Palmer, Ryan",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,0.82,1.87,-1.92,307.4,0.286
-"Palmer, Ryan",,2021,2021-06-20,,,,,,,,
-"Palmer, Ryan",,2021,2021-06-20,,,,,,,,
-"Laird, Martin",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,1.11,-0.78,-1.09,292.8,0.714
-"Laird, Martin",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-1.38,-0.33,-2.02,298.4,0.857
-"Laird, Martin",,2021,2021-06-20,,,,,,,,
-"Laird, Martin",,2021,2021-06-20,,,,,,,,
-"Finau, Tony",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,0.03,1.03,-0.7,306.8,0.214
-"Finau, Tony",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-1.25,-2.66,3.48,299.9,0.143
-"Finau, Tony",,2021,2021-06-20,,,,,,,,
-"Finau, Tony",,2021,2021-06-20,,,,,,,,
-"Ancer, Abraham",Torrey Pines (South),2021,2021-06-20,71,73,0.718,3.74,-1.4,-0.3,291.4,0.286
-"Ancer, Abraham",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,2.39,-1.63,-1.86,284.7,0.214
-"Ancer, Abraham",,2021,2021-06-20,,,,,,,,
-"Ancer, Abraham",,2021,2021-06-20,,,,,,,,
-"Shelton, Robby",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,-0.1,-2.69,-0.57,300.4,0.357
-"Shelton, Robby",Torrey Pines (South),2021,2021-06-20,71,72,1.787,0.62,2.62,-1.92,303.7,0.643
-"Shelton, Robby",,2021,2021-06-20,,,,,,,,
-"Shelton, Robby",,2021,2021-06-20,,,,,,,,
-"Hammer, Cole",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-1.36,0.03,-2.27,297.2,0.571
-"Hammer, Cole",Torrey Pines (South),2021,2021-06-20,71,73,0.787,2.32,-0.57,-0.26,305.9,0.286
-"Hammer, Cole",,2021,2021-06-20,,,,,,,,
-"Hammer, Cole",,2021,2021-06-20,,,,,,,,
-"Perez, Victor",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-0.58,-0.53,-1.38,301.0,0.786
-"Perez, Victor",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-1.75,0.67,-1.03,305.1,0.714
-"Perez, Victor",,2021,2021-06-20,,,,,,,,
-"Perez, Victor",,2021,2021-06-20,,,,,,,,
-"Cole, Eric",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-1.05,-3.26,1.37,302.2,0.357
-"Cole, Eric",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.62,0.09,0.95,302.0,0.571
-"Cole, Eric",,2021,2021-06-20,,,,,,,,
-"Cole, Eric",,2021,2021-06-20,,,,,,,,
-"Springer, Hayden",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-1.73,-0.54,-0.15,297.7,0.429
-"Springer, Hayden",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.05,0.19,1.38,308.1,0.286
-"Springer, Hayden",,2021,2021-06-20,,,,,,,,
-"Springer, Hayden",,2021,2021-06-20,,,,,,,,
-"Gagne, Luis",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-1.6,1.53,0.36,288.7,0.357
-"Gagne, Luis",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-3.29,1.78,0.2,295.2,0.429
-"Gagne, Luis",,2021,2021-06-20,,,,,,,,
-"Gagne, Luis",,2021,2021-06-20,,,,,,,,
-"Young, Cameron",Torrey Pines (South),2021,2021-06-20,71,72,1.718,-2.22,-0.01,2.66,312.1,0.571
-"Young, Cameron",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,-2.56,0.06,-1.62,315.0,0.357
-"Young, Cameron",,2021,2021-06-20,,,,,,,,
-"Young, Cameron",,2021,2021-06-20,,,,,,,,
-"Kokrak, Jason",Torrey Pines (South),2021,2021-06-20,71,73,0.718,1.16,-1.06,0.81,304.0,0.429
-"Kokrak, Jason",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,-3.23,-2.2,0.96,311.2,0.286
-"Kokrak, Jason",,2021,2021-06-20,,,,,,,,
-"Kokrak, Jason",,2021,2021-06-20,,,,,,,,
-"Asaji, Yosuke",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-2.68,-0.04,0.8,282.5,0.643
-"Asaji, Yosuke",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-0.81,1.21,-1.0,284.3,0.5
-"Asaji, Yosuke",,2021,2021-06-20,,,,,,,,
-"Asaji, Yosuke",,2021,2021-06-20,,,,,,,,
-"Stuard, Brian",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,-2.19,1.53,-3.05,284.5,0.571
-"Stuard, Brian",Torrey Pines (South),2021,2021-06-20,71,73,0.787,2.37,0.64,-1.0,278.5,0.571
-"Stuard, Brian",,2021,2021-06-20,,,,,,,,
-"Stuard, Brian",,2021,2021-06-20,,,,,,,,
-"Meronk, Adrian",Torrey Pines (South),2021,2021-06-20,71,72,1.718,-0.69,0.2,2.2,296.7,0.5
-"Meronk, Adrian",Torrey Pines (South),2021,2021-06-20,71,79,-5.213,-3.21,-3.48,0.85,309.5,0.5
-"Meronk, Adrian",,2021,2021-06-20,,,,,,,,
-"Meronk, Adrian",,2021,2021-06-20,,,,,,,,
-"Malnati, Peter",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,-0.8,-0.68,0.13,291.7,0.5
-"Malnati, Peter",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-0.15,0.4,-2.77,300.5,0.5
-"Malnati, Peter",,2021,2021-06-20,,,,,,,,
-"Malnati, Peter",,2021,2021-06-20,,,,,,,,
-"Southgate, Matthew",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,0.71,-1.69,-1.06,302.5,0.571
-"Southgate, Matthew",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,0.73,-0.88,-1.55,293.5,0.5
-"Southgate, Matthew",,2021,2021-06-20,,,,,,,,
-"Southgate, Matthew",,2021,2021-06-20,,,,,,,,
-"Barjon, Paul",Torrey Pines (South),2021,2021-06-20,71,73,0.718,0.65,0.02,0.48,302.9,0.357
-"Barjon, Paul",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,-0.36,-0.12,-4.36,308.3,0.571
-"Barjon, Paul",,2021,2021-06-20,,,,,,,,
-"Barjon, Paul",,2021,2021-06-20,,,,,,,,
-"Champ, Cameron",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-0.66,-1.64,-0.9,322.7,0.357
-"Champ, Cameron",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-0.13,-2.84,0.58,322.0,0.429
-"Champ, Cameron",,2021,2021-06-20,,,,,,,,
-"Champ, Cameron",,2021,2021-06-20,,,,,,,,
-"Buckley, Hayden",Torrey Pines (South),2021,2021-06-20,71,69,4.718,0.85,1.04,1.89,302.7,0.643
-"Buckley, Hayden",Torrey Pines (South),2021,2021-06-20,71,82,-8.213,-1.47,-1.56,-4.02,295.2,0.357
-"Buckley, Hayden",,2021,2021-06-20,,,,,,,,
-"Buckley, Hayden",,2021,2021-06-20,,,,,,,,
-"Coody, Pierceson",Torrey Pines (South),2021,2021-06-20,71,73,0.718,-0.26,-0.09,-0.52,310.8,0.571
-"Coody, Pierceson",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,-2.54,-2.15,0.56,315.4,0.429
-"Coody, Pierceson",,2021,2021-06-20,,,,,,,,
-"Coody, Pierceson",,2021,2021-06-20,,,,,,,,
-"Sharpstene, Matt",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-2.61,-0.66,1.55,311.7,0.5
-"Sharpstene, Matt",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,-1.32,-3.35,0.38,315.5,0.571
-"Sharpstene, Matt",,2021,2021-06-20,,,,,,,,
-"Sharpstene, Matt",,2021,2021-06-20,,,,,,,,
-"Stenson, Henrik",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,0.25,0.75,-0.67,276.2,0.286
-"Stenson, Henrik",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-0.08,-0.54,-1.65,295.2,0.5
-"Stenson, Henrik",,2021,2021-06-20,,,,,,,,
-"Stenson, Henrik",,2021,2021-06-20,,,,,,,,
-"Kennedy, Brad",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-0.71,0.07,1.02,278.6,0.5
-"Kennedy, Brad",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,1.76,-1.24,-3.31,273.2,0.5
-"Kennedy, Brad",,2021,2021-06-20,,,,,,,,
-"Kennedy, Brad",,2021,2021-06-20,,,,,,,,
-"Simpson, Webb",Torrey Pines (South),2021,2021-06-20,71,79,-5.282,-1.23,0.3,-2.02,291.7,0.357
-"Simpson, Webb",Torrey Pines (South),2021,2021-06-20,71,73,0.787,1.45,-0.24,-0.51,299.5,0.571
-"Simpson, Webb",,2021,2021-06-20,,,,,,,,
-"Simpson, Webb",,2021,2021-06-20,,,,,,,,
-"Spaun, J.J.",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-0.27,-3.41,0.11,291.8,0.643
-"Spaun, J.J.",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-2.03,0.95,-0.24,300.1,0.5
-"Spaun, J.J.",,2021,2021-06-20,,,,,,,,
-"Spaun, J.J.",,2021,2021-06-20,,,,,,,,
-"Schmid, Matthias",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-0.67,-0.8,-0.44,306.7,0.357
-"Schmid, Matthias",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-2.73,-0.33,1.4,308.8,0.286
-"Schmid, Matthias",,2021,2021-06-20,,,,,,,,
-"Schmid, Matthias",,2021,2021-06-20,,,,,,,,
-"Suh, Justin",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,0.49,0.2,-5.2,296.7,0.5
-"Suh, Justin",Torrey Pines (South),2021,2021-06-20,71,74,-0.213,-0.88,0.07,1.81,305.1,0.5
-"Suh, Justin",,2021,2021-06-20,,,,,,,,
-"Suh, Justin",,2021,2021-06-20,,,,,,,,
-"Shore, Davis",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,0.68,-0.59,-1.38,288.3,0.357
-"Shore, Davis",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-4.74,0.96,1.89,295.7,0.429
-"Shore, Davis",,2021,2021-06-20,,,,,,,,
-"Shore, Davis",,2021,2021-06-20,,,,,,,,
-"Aiken, Thomas",Torrey Pines (South),2021,2021-06-20,71,80,-6.282,-3.96,-1.06,0.89,271.6,0.357
-"Aiken, Thomas",Torrey Pines (South),2021,2021-06-20,71,73,0.787,-0.5,0.6,1.01,280.9,0.714
-"Aiken, Thomas",,2021,2021-06-20,,,,,,,,
-"Aiken, Thomas",,2021,2021-06-20,,,,,,,,
-"Kang, Sung",Torrey Pines (South),2021,2021-06-20,71,75,-1.282,0.31,-0.04,-1.83,294.7,0.429
-"Kang, Sung",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,0.16,-0.21,-3.9,297.6,0.5
-"Kang, Sung",,2021,2021-06-20,,,,,,,,
-"Kang, Sung",,2021,2021-06-20,,,,,,,,
-"Ishikawa, Ryo",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-1.45,-1.98,0.18,307.1,0.429
-"Ishikawa, Ryo",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,-0.39,0.15,-1.59,312.5,0.286
-"Ishikawa, Ryo",,2021,2021-06-20,,,,,,,,
-"Ishikawa, Ryo",,2021,2021-06-20,,,,,,,,
-"Pope, Andy",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-2.27,0.25,-0.27,287.0,0.714
-"Pope, Andy",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,1.06,-0.94,-2.85,286.1,0.5
-"Pope, Andy",,2021,2021-06-20,,,,,,,,
-"Pope, Andy",,2021,2021-06-20,,,,,,,,
-"Kim, Chan",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,1.47,-0.17,-3.9,311.9,0.357
-"Kim, Chan",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,-0.7,-1.25,-1.4,301.4,0.357
-"Kim, Chan",,2021,2021-06-20,,,,,,,,
-"Kim, Chan",,2021,2021-06-20,,,,,,,,
-"Cootes, Roy",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-3.77,-0.05,1.46,290.0,0.5
-"Cootes, Roy",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,-1.86,-3.2,1.9,287.5,0.714
-"Cootes, Roy",,2021,2021-06-20,,,,,,,,
-"Cootes, Roy",,2021,2021-06-20,,,,,,,,
-"Long, Joe",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-3.24,1.2,-1.32,295.3,0.571
-"Long, Joe",Torrey Pines (South),2021,2021-06-20,71,76,-2.213,0.89,1.53,-4.11,300.7,0.357
-"Long, Joe",,2021,2021-06-20,,,,,,,,
-"Long, Joe",,2021,2021-06-20,,,,,,,,
-"Coupland, David",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,-0.41,-1.68,2.56,290.7,0.429
-"Coupland, David",Torrey Pines (South),2021,2021-06-20,71,80,-6.213,-1.88,-0.07,-2.66,294.1,0.643
-"Coupland, David",,2021,2021-06-20,,,,,,,,
-"Coupland, David",,2021,2021-06-20,,,,,,,,
-"Rose, Justin",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,-3.13,-0.75,-1.08,305.0,0.643
-"Rose, Justin",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,0.85,-1.2,-1.85,293.0,0.286
-"Rose, Justin",,2021,2021-06-20,,,,,,,,
-"Rose, Justin",,2021,2021-06-20,,,,,,,,
-"Lee, K.H.",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-0.95,-1.34,-0.6,300.8,0.643
-"Lee, K.H.",Torrey Pines (South),2021,2021-06-20,71,79,-5.213,-2.15,-0.1,-3.17,298.2,0.643
-"Lee, K.H.",,2021,2021-06-20,,,,,,,,
-"Lee, K.H.",,2021,2021-06-20,,,,,,,,
-"Schaake, Carson",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,0.09,-0.75,1.33,286.0,0.214
-"Schaake, Carson",Torrey Pines (South),2021,2021-06-20,71,79,-5.213,-1.81,-0.63,-0.52,278.2,0.143
-"Schaake, Carson",,2021,2021-06-20,,,,,,,,
-"Schaake, Carson",,2021,2021-06-20,,,,,,,,
-"Crawford, Chris",Torrey Pines (South),2021,2021-06-20,71,76,-2.282,-0.44,0.63,-1.49,299.6,0.286
-"Crawford, Chris",Torrey Pines (South),2021,2021-06-20,71,79,-5.213,-3.6,-1.95,1.12,298.3,0.429
-"Crawford, Chris",,2021,2021-06-20,,,,,,,,
-"Crawford, Chris",,2021,2021-06-20,,,,,,,,
-"Hoag, Bo",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,-2.51,0.93,-1.44,291.1,0.357
-"Hoag, Bo",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,-1.38,-0.18,-2.65,293.6,0.571
-"Hoag, Bo",,2021,2021-06-20,,,,,,,,
-"Hoag, Bo",,2021,2021-06-20,,,,,,,,
-"Barco, Luis Fernando",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-3.93,-0.95,1.57,295.5,0.5
-"Barco, Luis Fernando",Torrey Pines (South),2021,2021-06-20,71,79,-5.213,-1.95,-3.23,1.16,298.8,0.5
-"Barco, Luis Fernando",,2021,2021-06-20,,,,,,,,
-"Barco, Luis Fernando",,2021,2021-06-20,,,,,,,,
-"Meyer, Dylan",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,-0.35,-1.05,-2.0,291.5,0.357
-"Meyer, Dylan",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,0.19,-3.07,0.13,286.4,0.357
-"Meyer, Dylan",,2021,2021-06-20,,,,,,,,
-"Meyer, Dylan",,2021,2021-06-20,,,,,,,,
-"Strafaci, Tyler",Torrey Pines (South),2021,2021-06-20,71,78,-4.282,-2.52,-1.1,0.54,283.0,0.357
-"Strafaci, Tyler",Torrey Pines (South),2021,2021-06-20,71,78,-4.213,-3.2,-0.08,0.11,292.5,0.286
-"Strafaci, Tyler",,2021,2021-06-20,,,,,,,,
-"Strafaci, Tyler",,2021,2021-06-20,,,,,,,,
-"Huh, John",Torrey Pines (South),2021,2021-06-20,71,80,-6.282,-2.22,-0.21,-3.55,290.8,0.357
-"Huh, John",Torrey Pines (South),2021,2021-06-20,71,77,-3.213,0.87,-0.41,-3.6,291.8,0.571
-"Huh, John",,2021,2021-06-20,,,,,,,,
-"Huh, John",,2021,2021-06-20,,,,,,,,
-"Carmona, Mario",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,1.57,-1.5,-3.11,291.4,0.429
-"Carmona, Mario",Torrey Pines (South),2021,2021-06-20,71,80,-6.213,2.01,-3.21,-2.59,294.9,0.071
-"Carmona, Mario",,2021,2021-06-20,,,,,,,,
-"Carmona, Mario",,2021,2021-06-20,,,,,,,,
-"Ortiz, Alvaro",Torrey Pines (South),2021,2021-06-20,71,82,-8.282,-2.63,-4.37,-0.09,306.7,0.143
-"Ortiz, Alvaro",Torrey Pines (South),2021,2021-06-20,71,75,-1.213,-2.09,2.19,0.12,305.3,0.286
-"Ortiz, Alvaro",,2021,2021-06-20,,,,,,,,
-"Ortiz, Alvaro",,2021,2021-06-20,,,,,,,,
-"Allan, Steve",Torrey Pines (South),2021,2021-06-20,71,80,-6.282,-3.1,0.32,-1.06,287.6,0.143
-"Allan, Steve",Torrey Pines (South),2021,2021-06-20,71,79,-5.213,-0.54,-1.7,-2.25,290.3,0.429
-"Allan, Steve",,2021,2021-06-20,,,,,,,,
-"Allan, Steve",,2021,2021-06-20,,,,,,,,
-"Furr, Wilson",Torrey Pines (South),2021,2021-06-20,71,77,-3.282,-4.25,0.12,0.91,304.3,0.429
-"Furr, Wilson",Torrey Pines (South),2021,2021-06-20,71,82,-8.213,-2.5,-3.86,-1.14,301.9,0.286
-"Furr, Wilson",,2021,2021-06-20,,,,,,,,
-"Furr, Wilson",,2021,2021-06-20,,,,,,,,
-"Hervol, James",Torrey Pines (South),2021,2021-06-20,71,79,-5.282,-4.16,0.04,-1.29,305.8,0.357
-"Hervol, James",Torrey Pines (South),2021,2021-06-20,71,81,-7.213,-2.2,-4.13,-1.7,306.4,0.571
-"Hervol, James",,2021,2021-06-20,,,,,,,,
-"Hervol, James",,2021,2021-06-20,,,,,,,,
-"Hovland, Viktor",Torrey Pines (South),2021,2021-06-20,71,74,-0.282,,,,304.9,0.286
-"Hovland, Viktor",,2021,2021-06-20,,,,,,,,
-"Hovland, Viktor",,2021,2021-06-20,,,,,,,,
-"Hovland, Viktor",,2021,2021-06-20,,,,,,,,
+"Woods, Tiger",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Woods, Tiger",Augusta National GC,2019,2019-04-14,72,68,3.977,,,,,
+"Woods, Tiger",Augusta National GC,2019,2019-04-14,72,67,3.769,,,,,
+"Woods, Tiger",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Johnson, Dustin",Augusta National GC,2019,2019-04-14,72,68,4.874,,,,,
+"Johnson, Dustin",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Johnson, Dustin",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Johnson, Dustin",Augusta National GC,2019,2019-04-14,72,68,3.462,,,,,
+"Koepka, Brooks",Augusta National GC,2019,2019-04-14,72,66,6.874,,,,,
+"Koepka, Brooks",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Koepka, Brooks",Augusta National GC,2019,2019-04-14,72,69,1.769,,,,,
+"Koepka, Brooks",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Schauffele, Xander",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Schauffele, Xander",Augusta National GC,2019,2019-04-14,72,65,6.977,,,,,
+"Schauffele, Xander",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Schauffele, Xander",Augusta National GC,2019,2019-04-14,72,68,3.462,,,,,
+"Molinari, Francesco",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Molinari, Francesco",Augusta National GC,2019,2019-04-14,72,67,4.977,,,,,
+"Molinari, Francesco",Augusta National GC,2019,2019-04-14,72,66,4.769,,,,,
+"Molinari, Francesco",Augusta National GC,2019,2019-04-14,72,74,-2.538,,,,,
+"Day, Jason",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Day, Jason",Augusta National GC,2019,2019-04-14,72,67,4.977,,,,,
+"Day, Jason",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Day, Jason",Augusta National GC,2019,2019-04-14,72,67,4.462,,,,,
+"Simpson, Webb",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Simpson, Webb",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Simpson, Webb",Augusta National GC,2019,2019-04-14,72,64,6.769,,,,,
+"Simpson, Webb",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Finau, Tony",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Finau, Tony",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Finau, Tony",Augusta National GC,2019,2019-04-14,72,64,6.769,,,,,
+"Finau, Tony",Augusta National GC,2019,2019-04-14,72,72,-0.538,,,,,
+"Fowler, Rickie",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Fowler, Rickie",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Fowler, Rickie",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Fowler, Rickie",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Cantlay, Patrick",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Cantlay, Patrick",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Cantlay, Patrick",Augusta National GC,2019,2019-04-14,72,64,6.769,,,,,
+"Cantlay, Patrick",Augusta National GC,2019,2019-04-14,72,68,3.462,,,,,
+"Rahm, Jon",Augusta National GC,2019,2019-04-14,72,69,3.874,,,,,
+"Rahm, Jon",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Rahm, Jon",Augusta National GC,2019,2019-04-14,72,71,-0.231,,,,,
+"Rahm, Jon",Augusta National GC,2019,2019-04-14,72,68,3.462,,,,,
+"Poulter, Ian",Augusta National GC,2019,2019-04-14,72,68,4.874,,,,,
+"Poulter, Ian",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Poulter, Ian",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Poulter, Ian",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Kuchar, Matt",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Kuchar, Matt",Augusta National GC,2019,2019-04-14,72,69,2.977,,,,,
+"Kuchar, Matt",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Kuchar, Matt",Augusta National GC,2019,2019-04-14,72,72,-0.538,,,,,
+"Watson, Bubba",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Watson, Bubba",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Watson, Bubba",Augusta National GC,2019,2019-04-14,72,67,3.769,,,,,
+"Watson, Bubba",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Harding, Justin",Augusta National GC,2019,2019-04-14,72,69,3.874,,,,,
+"Harding, Justin",Augusta National GC,2019,2019-04-14,72,69,2.977,,,,,
+"Harding, Justin",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Harding, Justin",Augusta National GC,2019,2019-04-14,72,72,-0.538,,,,,
+"Thomas, Justin",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Thomas, Justin",Augusta National GC,2019,2019-04-14,72,68,3.977,,,,,
+"Thomas, Justin",Augusta National GC,2019,2019-04-14,72,69,1.769,,,,,
+"Thomas, Justin",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Wise, Aaron",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Wise, Aaron",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Wise, Aaron",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Wise, Aaron",Augusta National GC,2019,2019-04-14,72,67,4.462,,,,,
+"Mickelson, Phil",Augusta National GC,2019,2019-04-14,72,67,5.874,,,,,
+"Mickelson, Phil",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Mickelson, Phil",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Mickelson, Phil",Augusta National GC,2019,2019-04-14,72,72,-0.538,,,,,
+"Scott, Adam",Augusta National GC,2019,2019-04-14,72,69,3.874,,,,,
+"Scott, Adam",Augusta National GC,2019,2019-04-14,72,68,3.977,,,,,
+"Scott, Adam",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Scott, Adam",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Kizzire, Patton",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Kizzire, Patton",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Kizzire, Patton",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Kizzire, Patton",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"McIlroy, Rory",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"McIlroy, Rory",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"McIlroy, Rory",Augusta National GC,2019,2019-04-14,72,71,-0.231,,,,,
+"McIlroy, Rory",Augusta National GC,2019,2019-04-14,72,68,3.462,,,,,
+"Kisner, Kevin",Augusta National GC,2019,2019-04-14,72,69,3.874,,,,,
+"Kisner, Kevin",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Kisner, Kevin",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Kisner, Kevin",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Bjerregaard, Lucas",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Bjerregaard, Lucas",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Bjerregaard, Lucas",Augusta National GC,2019,2019-04-14,72,69,1.769,,,,,
+"Bjerregaard, Lucas",Augusta National GC,2019,2019-04-14,72,72,-0.538,,,,,
+"Stanley, Kyle",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Stanley, Kyle",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Stanley, Kyle",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Stanley, Kyle",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Olesen, Thorbjorn",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Olesen, Thorbjorn",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Olesen, Thorbjorn",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Olesen, Thorbjorn",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Kim, Si Woo",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Kim, Si Woo",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Kim, Si Woo",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Kim, Si Woo",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Spieth, Jordan",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Spieth, Jordan",Augusta National GC,2019,2019-04-14,72,68,3.977,,,,,
+"Spieth, Jordan",Augusta National GC,2019,2019-04-14,72,69,1.769,,,,,
+"Spieth, Jordan",Augusta National GC,2019,2019-04-14,72,71,0.462,,,,,
+"Fitzpatrick, Matthew",Augusta National GC,2019,2019-04-14,72,78,-5.126,,,,,
+"Fitzpatrick, Matthew",Augusta National GC,2019,2019-04-14,72,67,4.977,,,,,
+"Fitzpatrick, Matthew",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Fitzpatrick, Matthew",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Hoffman, Charley",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Hoffman, Charley",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Hoffman, Charley",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Hoffman, Charley",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Oosthuizen, Louis",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Oosthuizen, Louis",Augusta National GC,2019,2019-04-14,72,66,5.977,,,,,
+"Oosthuizen, Louis",Augusta National GC,2019,2019-04-14,72,71,-0.231,,,,,
+"Oosthuizen, Louis",Augusta National GC,2019,2019-04-14,72,76,-4.538,,,,,
+"DeChambeau, Bryson",Augusta National GC,2019,2019-04-14,72,66,6.874,,,,,
+"DeChambeau, Bryson",Augusta National GC,2019,2019-04-14,72,75,-3.023,,,,,
+"DeChambeau, Bryson",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"DeChambeau, Bryson",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Howell III, Charles",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Howell III, Charles",Augusta National GC,2019,2019-04-14,72,67,4.977,,,,,
+"Howell III, Charles",Augusta National GC,2019,2019-04-14,72,76,-5.231,,,,,
+"Howell III, Charles",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Woodland, Gary",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Woodland, Gary",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Woodland, Gary",Augusta National GC,2019,2019-04-14,72,74,-3.231,,,,,
+"Woodland, Gary",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Matsuyama, Hideki",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Matsuyama, Hideki",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Matsuyama, Hideki",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Matsuyama, Hideki",Augusta National GC,2019,2019-04-14,72,72,-0.538,,,,,
+"Hovland, Viktor",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Hovland, Viktor",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Hovland, Viktor",Augusta National GC,2019,2019-04-14,72,71,-0.231,,,,,
+"Hovland, Viktor",Augusta National GC,2019,2019-04-14,72,71,0.462,,,,,
+"Stenson, Henrik",Augusta National GC,2019,2019-04-14,72,74,-1.126,,,,,
+"Stenson, Henrik",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Stenson, Henrik",Augusta National GC,2019,2019-04-14,72,67,3.769,,,,,
+"Stenson, Henrik",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Walker, Jimmy",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Walker, Jimmy",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Walker, Jimmy",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Walker, Jimmy",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Cabrera Bello, Rafa",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Cabrera Bello, Rafa",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Cabrera Bello, Rafa",Augusta National GC,2019,2019-04-14,72,75,-4.231,,,,,
+"Cabrera Bello, Rafa",Augusta National GC,2019,2019-04-14,72,68,3.462,,,,,
+"Fleetwood, Tommy",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Fleetwood, Tommy",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Fleetwood, Tommy",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Fleetwood, Tommy",Augusta National GC,2019,2019-04-14,72,74,-2.538,,,,,
+"Tway, Kevin",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Tway, Kevin",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Tway, Kevin",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Tway, Kevin",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Reed, Patrick",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Reed, Patrick",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Reed, Patrick",Augusta National GC,2019,2019-04-14,72,74,-3.231,,,,,
+"Reed, Patrick",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Ortiz, Alvaro",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Ortiz, Alvaro",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Ortiz, Alvaro",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Ortiz, Alvaro",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Bradley, Keegan",Augusta National GC,2019,2019-04-14,72,76,-3.126,,,,,
+"Bradley, Keegan",Augusta National GC,2019,2019-04-14,72,68,3.977,,,,,
+"Bradley, Keegan",Augusta National GC,2019,2019-04-14,72,71,-0.231,,,,,
+"Bradley, Keegan",Augusta National GC,2019,2019-04-14,72,72,-0.538,,,,,
+"Li, Haotong",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Li, Haotong",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Li, Haotong",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Li, Haotong",Augusta National GC,2019,2019-04-14,72,68,3.462,,,,,
+"Mitchell, Keith",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Mitchell, Keith",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Mitchell, Keith",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Mitchell, Keith",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Na, Kevin",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Na, Kevin",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Na, Kevin",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Na, Kevin",Augusta National GC,2019,2019-04-14,72,71,0.462,,,,,
+"Landry, Andrew",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Landry, Andrew",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Landry, Andrew",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Landry, Andrew",Augusta National GC,2019,2019-04-14,72,70,1.462,,,,,
+"Conners, Corey",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Conners, Corey",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Conners, Corey",Augusta National GC,2019,2019-04-14,72,71,-0.231,,,,,
+"Conners, Corey",Augusta National GC,2019,2019-04-14,72,76,-4.538,,,,,
+"Leishman, Marc",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Leishman, Marc",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Leishman, Marc",Augusta National GC,2019,2019-04-14,72,70,0.769,,,,,
+"Leishman, Marc",Augusta National GC,2019,2019-04-14,72,75,-3.538,,,,,
+"Aphibarnrat, Kiradech",Augusta National GC,2019,2019-04-14,72,69,3.874,,,,,
+"Aphibarnrat, Kiradech",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Aphibarnrat, Kiradech",Augusta National GC,2019,2019-04-14,72,75,-4.231,,,,,
+"Aphibarnrat, Kiradech",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Immelman, Trevor",Augusta National GC,2019,2019-04-14,72,74,-1.126,,,,,
+"Immelman, Trevor",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Immelman, Trevor",Augusta National GC,2019,2019-04-14,72,75,-4.231,,,,,
+"Immelman, Trevor",Augusta National GC,2019,2019-04-14,72,69,2.462,,,,,
+"Kaymer, Martin",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Kaymer, Martin",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Kaymer, Martin",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Kaymer, Martin",Augusta National GC,2019,2019-04-14,72,71,0.462,,,,,
+"Pepperell, Eddie",Augusta National GC,2019,2019-04-14,72,74,-1.126,,,,,
+"Pepperell, Eddie",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Pepperell, Eddie",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Pepperell, Eddie",Augusta National GC,2019,2019-04-14,72,71,0.462,,,,,
+"Smith, Cameron",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Smith, Cameron",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Smith, Cameron",Augusta National GC,2019,2019-04-14,72,69,1.769,,,,,
+"Smith, Cameron",Augusta National GC,2019,2019-04-14,72,77,-5.538,,,,,
+"Bling, Devon",Augusta National GC,2019,2019-04-14,72,74,-1.126,,,,,
+"Bling, Devon",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Bling, Devon",Augusta National GC,2019,2019-04-14,72,71,-0.231,,,,,
+"Bling, Devon",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Horschel, Billy",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Horschel, Billy",Augusta National GC,2019,2019-04-14,72,75,-3.023,,,,,
+"Horschel, Billy",Augusta National GC,2019,2019-04-14,72,74,-3.231,,,,,
+"Horschel, Billy",Augusta National GC,2019,2019-04-14,72,71,0.462,,,,,
+"Hatton, Tyrrell",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Hatton, Tyrrell",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Hatton, Tyrrell",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Hatton, Tyrrell",Augusta National GC,2019,2019-04-14,72,74,-2.538,,,,,
+"Johnson, Zach",Augusta National GC,2019,2019-04-14,72,74,-1.126,,,,,
+"Johnson, Zach",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Johnson, Zach",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Johnson, Zach",Augusta National GC,2019,2019-04-14,72,73,-1.538,,,,,
+"Grace, Branden",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Grace, Branden",Augusta National GC,2019,2019-04-14,72,75,-3.023,,,,,
+"Grace, Branden",Augusta National GC,2019,2019-04-14,72,72,-1.231,,,,,
+"Grace, Branden",Augusta National GC,2019,2019-04-14,72,74,-2.538,,,,,
+"Kanaya, Takumi",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Kanaya, Takumi",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Kanaya, Takumi",Augusta National GC,2019,2019-04-14,72,68,2.769,,,,,
+"Kanaya, Takumi",Augusta National GC,2019,2019-04-14,72,78,-6.538,,,,,
+"Kodaira, Satoshi",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Kodaira, Satoshi",Augusta National GC,2019,2019-04-14,72,70,1.977,,,,,
+"Kodaira, Satoshi",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Kodaira, Satoshi",Augusta National GC,2019,2019-04-14,72,76,-4.538,,,,,
+"Langer, Bernhard",Augusta National GC,2019,2019-04-14,72,71,1.874,,,,,
+"Langer, Bernhard",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Langer, Bernhard",Augusta National GC,2019,2019-04-14,72,75,-4.231,,,,,
+"Langer, Bernhard",Augusta National GC,2019,2019-04-14,72,78,-6.538,,,,,
+"Holmes, J.B.",Augusta National GC,2019,2019-04-14,72,70,2.874,,,,,
+"Holmes, J.B.",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Holmes, J.B.",Augusta National GC,2019,2019-04-14,72,74,-3.231,,,,,
+"Holmes, J.B.",Augusta National GC,2019,2019-04-14,72,80,-8.538,,,,,
+"Noren, Alex",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Noren, Alex",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Noren, Alex",Augusta National GC,2019,2019-04-14,72,75,-4.231,,,,,
+"Noren, Alex",Augusta National GC,2019,2019-04-14,72,74,-2.538,,,,,
+"Grillo, Emiliano",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Grillo, Emiliano",Augusta National GC,2019,2019-04-14,72,75,-3.023,,,,,
+"Grillo, Emiliano",Augusta National GC,2019,2019-04-14,72,73,-2.231,,,,,
+"Grillo, Emiliano",Augusta National GC,2019,2019-04-14,72,76,-4.538,,,,,
+"Lyle, Sandy",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Lyle, Sandy",Augusta National GC,2019,2019-04-14,72,75,-3.023,,,,,
+"Lyle, Sandy",,2019,2019-04-14,,,,,,,,
+"Lyle, Sandy",,2019,2019-04-14,,,,,,,,
+"Weir, Mike",Augusta National GC,2019,2019-04-14,72,72,0.874,,,,,
+"Weir, Mike",Augusta National GC,2019,2019-04-14,72,76,-4.023,,,,,
+"Weir, Mike",,2019,2019-04-14,,,,,,,,
+"Weir, Mike",,2019,2019-04-14,,,,,,,,
+"Cink, Stewart",Augusta National GC,2019,2019-04-14,72,76,-3.126,,,,,
+"Cink, Stewart",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Cink, Stewart",,2019,2019-04-14,,,,,,,,
+"Cink, Stewart",,2019,2019-04-14,,,,,,,,
+"Garcia, Sergio",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Garcia, Sergio",Augusta National GC,2019,2019-04-14,72,75,-3.023,,,,,
+"Garcia, Sergio",,2019,2019-04-14,,,,,,,,
+"Garcia, Sergio",,2019,2019-04-14,,,,,,,,
+"Rose, Justin",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Rose, Justin",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Rose, Justin",,2019,2019-04-14,,,,,,,,
+"Rose, Justin",,2019,2019-04-14,,,,,,,,
+"O'Connell, Kevin",Augusta National GC,2019,2019-04-14,72,77,-4.126,,,,,
+"O'Connell, Kevin",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"O'Connell, Kevin",,2019,2019-04-14,,,,,,,,
+"O'Connell, Kevin",,2019,2019-04-14,,,,,,,,
+"Willett, Danny",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Willett, Danny",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Willett, Danny",,2019,2019-04-14,,,,,,,,
+"Willett, Danny",,2019,2019-04-14,,,,,,,,
+"Couples, Fred",Augusta National GC,2019,2019-04-14,72,78,-5.126,,,,,
+"Couples, Fred",Augusta National GC,2019,2019-04-14,72,71,0.977,,,,,
+"Couples, Fred",,2019,2019-04-14,,,,,,,,
+"Couples, Fred",,2019,2019-04-14,,,,,,,,
+"Schwartzel, Charl",Augusta National GC,2019,2019-04-14,72,77,-4.126,,,,,
+"Schwartzel, Charl",Augusta National GC,2019,2019-04-14,72,72,-0.023,,,,,
+"Schwartzel, Charl",,2019,2019-04-14,,,,,,,,
+"Schwartzel, Charl",,2019,2019-04-14,,,,,,,,
+"Snedeker, Brandt",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Snedeker, Brandt",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Snedeker, Brandt",,2019,2019-04-14,,,,,,,,
+"Snedeker, Brandt",,2019,2019-04-14,,,,,,,,
+"Long, Adam",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Long, Adam",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Long, Adam",,2019,2019-04-14,,,,,,,,
+"Long, Adam",,2019,2019-04-14,,,,,,,,
+"Imahira, Shugo",Augusta National GC,2019,2019-04-14,72,76,-3.126,,,,,
+"Imahira, Shugo",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Imahira, Shugo",,2019,2019-04-14,,,,,,,,
+"Imahira, Shugo",,2019,2019-04-14,,,,,,,,
+"Mize, Larry",Augusta National GC,2019,2019-04-14,72,77,-4.126,,,,,
+"Mize, Larry",Augusta National GC,2019,2019-04-14,72,74,-2.023,,,,,
+"Mize, Larry",,2019,2019-04-14,,,,,,,,
+"Mize, Larry",,2019,2019-04-14,,,,,,,,
+"Lowry, Shane",Augusta National GC,2019,2019-04-14,72,78,-5.126,,,,,
+"Lowry, Shane",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Lowry, Shane",,2019,2019-04-14,,,,,,,,
+"Lowry, Shane",,2019,2019-04-14,,,,,,,,
+"Wallace, Matt",Augusta National GC,2019,2019-04-14,72,75,-2.126,,,,,
+"Wallace, Matt",Augusta National GC,2019,2019-04-14,72,77,-5.023,,,,,
+"Wallace, Matt",,2019,2019-04-14,,,,,,,,
+"Wallace, Matt",,2019,2019-04-14,,,,,,,,
+"Rebula, Jovan",Augusta National GC,2019,2019-04-14,72,73,-0.126,,,,,
+"Rebula, Jovan",Augusta National GC,2019,2019-04-14,72,79,-7.023,,,,,
+"Rebula, Jovan",,2019,2019-04-14,,,,,,,,
+"Rebula, Jovan",,2019,2019-04-14,,,,,,,,
+"Casey, Paul",Augusta National GC,2019,2019-04-14,72,81,-8.126,,,,,
+"Casey, Paul",Augusta National GC,2019,2019-04-14,72,73,-1.023,,,,,
+"Casey, Paul",,2019,2019-04-14,,,,,,,,
+"Casey, Paul",,2019,2019-04-14,,,,,,,,
+"Kim, Michael",Augusta National GC,2019,2019-04-14,72,76,-3.126,,,,,
+"Kim, Michael",Augusta National GC,2019,2019-04-14,72,78,-6.023,,,,,
+"Kim, Michael",,2019,2019-04-14,,,,,,,,
+"Kim, Michael",,2019,2019-04-14,,,,,,,,
+"Woosnam, Ian",Augusta National GC,2019,2019-04-14,72,80,-7.126,,,,,
+"Woosnam, Ian",Augusta National GC,2019,2019-04-14,72,76,-4.023,,,,,
+"Woosnam, Ian",,2019,2019-04-14,,,,,,,,
+"Woosnam, Ian",,2019,2019-04-14,,,,,,,,
+"Singh, Vijay",Augusta National GC,2019,2019-04-14,72,80,-7.126,,,,,
+"Singh, Vijay",Augusta National GC,2019,2019-04-14,72,76,-4.023,,,,,
+"Singh, Vijay",,2019,2019-04-14,,,,,,,,
+"Singh, Vijay",,2019,2019-04-14,,,,,,,,
+"Olazabal, Jose Maria",Augusta National GC,2019,2019-04-14,72,78,-5.126,,,,,
+"Olazabal, Jose Maria",Augusta National GC,2019,2019-04-14,72,79,-7.023,,,,,
+"Olazabal, Jose Maria",,2019,2019-04-14,,,,,,,,
+"Olazabal, Jose Maria",,2019,2019-04-14,,,,,,,,
+"Cabrera, Angel",Augusta National GC,2019,2019-04-14,72,82,-9.126,,,,,
+"Cabrera, Angel",Augusta National GC,2019,2019-04-14,72,75,-3.023,,,,,
+"Cabrera, Angel",,2019,2019-04-14,,,,,,,,
+"Cabrera, Angel",,2019,2019-04-14,,,,,,,,
+"Thomas, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,65,4.275,0.164,2.022,1.816,293.5,0.643
+"Thomas, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,-0.07,-0.471,0.638,309.8,0.714
+"Thomas, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,61,8.667,6.16,0.72,1.734,304.9,0.571
+"Thomas, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.42,1.452,0.095,0.939,296.3,0.571
+"Cantlay, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.275,-0.416,0.865,1.536,309.9,0.714
+"Cantlay, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.348,0.826,0.284,2.189,301.4,0.5
+"Cantlay, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,0.354,0.196,0.736,310.7,0.5
+"Cantlay, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,65,5.42,3.195,0.184,1.523,300.8,0.429
+"Matsuyama, Hideki",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,1.819,-0.237,-2.033,298.8,0.714
+"Matsuyama, Hideki",Medinah Country Club (No. 3),2019,2019-08-18,72,63,7.348,1.181,0.057,5.258,298.3,0.643
+"Matsuyama, Hideki",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.333,-1.581,-0.211,-1.716,299.3,0.571
+"Matsuyama, Hideki",Medinah Country Club (No. 3),2019,2019-08-18,72,63,7.42,1.857,2.842,2.158,295.8,0.714
+"Finau, Tony",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,0.468,0.27,0.454,307.2,0.571
+"Finau, Tony",Medinah Country Club (No. 3),2019,2019-08-18,72,66,4.348,2.601,-0.037,0.081,306.8,0.857
+"Finau, Tony",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,4.03,-0.202,-2.765,311.9,0.571
+"Finau, Tony",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,1.101,1.432,-1.649,303.7,0.571
+"Snedeker, Brandt",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.275,-0.537,0.271,3.118,281.0,1.0
+"Snedeker, Brandt",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,0.774,-0.302,0.115,282.0,0.5
+"Snedeker, Brandt",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,-2.03,2.919,1.679,284.5,0.786
+"Snedeker, Brandt",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.42,-0.301,0.171,2.37,286.4,0.714
+"Rahm, Jon",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,0.573,0.001,-0.122,304.6,0.643
+"Rahm, Jon",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,-0.788,0.617,1.161,299.2,0.714
+"Rahm, Jon",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.667,0.639,0.498,1.532,307.0,0.714
+"Rahm, Jon",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,-1.53,-0.091,1.922,297.3,0.786
+"Glover, Lucas",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.275,0.576,2.955,-1.021,289.7,0.857
+"Glover, Lucas",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,1.967,-0.37,0.229,290.6,0.571
+"Glover, Lucas",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,1.052,0.118,-0.818,292.2,0.786
+"Glover, Lucas",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,0.885,-1.034,1.993,283.5,0.714
+"Conners, Corey",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,1.097,0.349,0.661,294.8,0.571
+"Conners, Corey",Medinah Country Club (No. 3),2019,2019-08-18,72,66,4.348,1.651,0.103,2.656,304.5,0.571
+"Conners, Corey",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,0.81,-0.183,-0.749,297.2,0.857
+"Conners, Corey",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,2.116,-0.92,-0.862,293.3,0.857
+"Scott, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,0.02,0.011,1.833,294.7,0.571
+"Scott, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-0.352,0.974,-0.557,291.6,0.571
+"Scott, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,1.245,-0.63,-0.769,299.9,0.786
+"Scott, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.42,2.149,-0.235,1.669,297.0,0.5
+"Kisner, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,-0.261,-0.543,2.373,280.7,0.786
+"Kisner, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.348,0.909,-0.48,2.019,288.2,0.643
+"Kisner, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,0.655,-0.911,1.19,292.1,0.643
+"Kisner, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,1.402,-0.498,0.514,279.9,0.857
+"Oosthuizen, Louis",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,-0.872,-1.435,1.921,288.5,0.571
+"Oosthuizen, Louis",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,3.87,-0.132,-2.302,290.1,0.5
+"Oosthuizen, Louis",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,0.775,-0.375,0.968,290.3,0.786
+"Oosthuizen, Louis",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.42,1.775,-0.887,1.182,290.7,0.786
+"Fleetwood, Tommy",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,0.771,0.02,-1.905,296.4,0.571
+"Fleetwood, Tommy",Medinah Country Club (No. 3),2019,2019-08-18,72,66,4.348,1.371,0.837,1.981,310.8,0.5
+"Fleetwood, Tommy",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,-1.189,-0.188,0.351,301.7,0.714
+"Fleetwood, Tommy",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,0.195,0.235,0.652,296.2,0.643
+"Fowler, Rickie",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,1.623,-0.178,0.337,296.9,0.643
+"Fowler, Rickie",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,-1.506,-0.237,1.806,293.2,0.571
+"Fowler, Rickie",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,-2.434,2.086,1.141,295.6,0.857
+"Fowler, Rickie",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,-1.292,-0.385,1.685,299.4,0.5
+"Tway, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,-0.699,0.505,1.182,307.3,0.5
+"Tway, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.348,1.893,1.158,0.551,298.8,0.429
+"Tway, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,-1.184,0.633,0.298,309.9,0.5
+"Tway, Kevin",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,2.366,-0.724,-0.256,305.1,0.714
+"Im, Sungjae",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,0.702,1.215,-0.675,274.5,0.643
+"Im, Sungjae",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,0.008,-0.768,-0.142,299.0,0.5
+"Im, Sungjae",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.667,0.916,-0.101,2.27,302.5,0.714
+"Im, Sungjae",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.42,-0.554,2.776,1.232,290.5,0.786
+"Sabbatini, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,-0.204,-0.334,2.981,277.4,0.857
+"Sabbatini, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.348,-0.014,3.279,-0.773,285.1,0.571
+"Sabbatini, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,3.148,0.14,-0.669,284.9,0.786
+"Sabbatini, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-3.58,-0.391,-1.064,-1.372,277.7,0.643
+"Taylor, Vaughn",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.725,0.235,-0.528,-3.353,279.8,0.786
+"Taylor, Vaughn",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,1.412,1.222,-1.155,275.9,0.714
+"Taylor, Vaughn",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,1.62,0.319,1.252,281.9,0.714
+"Taylor, Vaughn",Medinah Country Club (No. 3),2019,2019-08-18,72,66,4.42,1.051,1.041,2.756,277.8,0.714
+"Poston, J.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,-1.596,1.438,1.328,286.3,0.714
+"Poston, J.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-3.652,-1.415,-0.351,-1.448,292.5,0.643
+"Poston, J.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.667,1.811,0.246,0.833,295.4,0.786
+"Poston, J.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.42,0.934,0.42,1.113,289.3,0.786
+"Leishman, Marc",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-0.602,-2.145,0.859,290.4,0.571
+"Leishman, Marc",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-3.412,0.564,2.449,287.5,0.571
+"Leishman, Marc",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,2.009,0.211,0.788,292.6,0.5
+"Leishman, Marc",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.42,0.063,0.416,2.621,299.8,0.5
+"McIlroy, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,0.822,-0.299,-2.351,312.6,0.857
+"McIlroy, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.348,-0.722,0.479,2.244,308.1,0.714
+"McIlroy, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,0.459,-0.578,-0.263,312.6,0.571
+"McIlroy, Rory",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,-0.102,-0.39,0.394,301.4,0.5
+"Kokrak, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,65,4.275,0.411,0.603,2.141,303.5,0.857
+"Kokrak, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-1.022,-2.951,1.758,301.4,0.643
+"Kokrak, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,-2.324,-0.183,1.168,305.4,0.643
+"Kokrak, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,1.112,0.945,-0.871,300.1,0.643
+"Reed, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,0.054,0.636,0.509,289.1,0.571
+"Reed, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-0.044,-1.476,1.273,300.6,0.357
+"Reed, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,0.32,-1.121,2.974,292.4,0.571
+"Reed, Patrick",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,1.26,0.667,-1.491,289.0,0.643
+"Schauffele, Xander",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,-0.727,2.912,-0.185,292.1,0.714
+"Schauffele, Xander",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.348,1.644,0.538,-0.625,294.4,0.571
+"Schauffele, Xander",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,1.925,-0.531,-1.538,290.8,0.643
+"Schauffele, Xander",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-0.82,-0.449,-0.301,300.9,0.571
+"Casey, Paul",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,0.06,-1.233,-0.127,296.1,0.714
+"Casey, Paul",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,1.001,-0.042,-1.1,295.7,0.643
+"Casey, Paul",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,-1.111,0.206,2.649,294.0,0.857
+"Casey, Paul",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,0.2,-1.074,0.62,286.7,0.571
+"Simpson, Webb",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,1.344,-0.287,-1.176,284.6,0.571
+"Simpson, Webb",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,0.565,-1.246,-1.038,285.2,0.714
+"Simpson, Webb",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,2.214,-0.314,1.089,288.3,0.429
+"Simpson, Webb",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,-0.951,0.926,1.435,286.1,0.714
+"Dahmen, Joel",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.275,2.611,-0.438,0.192,299.1,0.857
+"Dahmen, Joel",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-1.148,0.092,0.296,289.6,0.643
+"Dahmen, Joel",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,-2.329,1.732,1.323,289.2,0.643
+"Dahmen, Joel",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,0.894,0.998,-2.21,288.8,0.571
+"Koepka, Brooks",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,1.419,-2.334,1.052,303.9,0.786
+"Koepka, Brooks",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-1.247,0.353,-0.169,303.6,0.5
+"Koepka, Brooks",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.333,-0.675,-0.027,-1.819,304.6,0.429
+"Koepka, Brooks",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.42,0.232,0.435,3.796,310.9,0.429
+"An, Byeong Hun",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,-2.094,-1.263,-0.042,306.7,0.571
+"An, Byeong Hun",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,-0.53,2.071,-1.856,309.5,0.429
+"An, Byeong Hun",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,-0.029,1.749,-1.681,309.1,0.643
+"An, Byeong Hun",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,0.736,0.478,0.187,299.9,0.5
+"Kim, Si Woo",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,-0.674,0.459,-0.862,293.7,0.643
+"Kim, Si Woo",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.348,0.861,1.346,1.392,296.9,0.714
+"Kim, Si Woo",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,0.091,-0.533,0.018,282.4,0.429
+"Kim, Si Woo",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,0.487,-0.901,-0.239,290.3,0.714
+"Ancer, Abraham",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,0.34,0.675,0.114,290.4,0.714
+"Ancer, Abraham",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,-0.24,-1.414,-0.382,292.7,0.714
+"Ancer, Abraham",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,0.732,0.386,-0.365,291.8,0.643
+"Ancer, Abraham",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,-2.281,0.722,1.72,290.8,0.714
+"Poulter, Ian",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,2.255,0.522,-2.543,280.4,0.643
+"Poulter, Ian",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,-2.247,1.201,1.689,285.8,0.643
+"Poulter, Ian",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,-0.355,0.971,0.545,275.7,0.5
+"Poulter, Ian",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,-0.783,0.488,1.08,289.2,0.929
+"Woodland, Gary",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,0.207,0.327,-1.119,305.2,0.429
+"Woodland, Gary",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-1.031,-0.354,0.287,290.9,0.214
+"Woodland, Gary",Medinah Country Club (No. 3),2019,2019-08-18,72,64,5.667,3.358,-0.131,0.906,312.2,0.714
+"Woodland, Gary",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.58,-2.042,-1.056,0.435,302.5,0.429
+"Grillo, Emiliano",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-0.837,-1.076,-1.235,286.7,0.786
+"Grillo, Emiliano",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,1.597,0.521,-1.257,289.3,0.5
+"Grillo, Emiliano",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,1.041,-2.424,2.311,288.6,0.857
+"Grillo, Emiliano",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,0.843,1.116,-2.91,295.9,0.857
+"Pan, C.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,-1.299,0.406,-0.219,285.2,0.571
+"Pan, C.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.348,0.395,1.768,0.607,284.9,0.857
+"Pan, C.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,-0.854,0.354,0.684,285.2,0.643
+"Pan, C.T.",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,0.996,-0.303,-1.309,278.2,0.571
+"Niemann, Joaquin",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-4.725,-1.369,-0.29,-3.64,304.0,0.571
+"Niemann, Joaquin",Medinah Country Club (No. 3),2019,2019-08-18,72,65,5.348,3.662,-0.781,2.081,313.1,0.429
+"Niemann, Joaquin",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,-2.109,0.363,2.016,309.5,0.571
+"Niemann, Joaquin",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-0.109,-0.59,-0.567,302.4,0.5
+"Clark, Wyndham",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,-0.887,-0.034,0.154,308.2,0.643
+"Clark, Wyndham",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-3.294,-0.1,0.095,310.6,0.571
+"Clark, Wyndham",Medinah Country Club (No. 3),2019,2019-08-18,72,65,4.667,2.681,-0.139,0.466,312.7,0.786
+"Clark, Wyndham",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.58,-0.985,-0.924,-0.423,301.5,0.571
+"Woods, Tiger",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,0.395,-0.714,-1.138,291.0,0.5
+"Woods, Tiger",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-0.018,-0.651,-0.922,293.0,0.786
+"Woods, Tiger",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,0.907,-0.151,1.729,289.9,0.714
+"Woods, Tiger",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-1.735,-0.997,1.051,292.8,0.714
+"Howell III, Charles",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,0.018,-0.32,-1.242,292.9,0.714
+"Howell III, Charles",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,-0.862,1.348,0.34,306.5,0.429
+"Howell III, Charles",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.333,-0.838,0.235,-2.828,303.9,0.571
+"Howell III, Charles",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,0.727,0.66,0.027,295.3,0.429
+"Moore, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,1.177,-0.06,-1.157,269.5,0.714
+"Moore, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,1.732,-0.939,0.139,279.6,0.857
+"Moore, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,1.129,-0.312,-0.119,278.2,0.857
+"Moore, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-0.57,-0.304,-0.581,275.1,0.786
+"Piercy, Scott",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,0.305,-0.456,2.3,291.8,0.571
+"Piercy, Scott",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-0.333,-1.245,-1.315,299.7,0.643
+"Piercy, Scott",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,-0.701,0.237,0.912,284.2,0.714
+"Piercy, Scott",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,0.272,-0.227,0.886,289.7,0.714
+"Horschel, Billy",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,-1.805,0.94,-0.569,287.2,0.714
+"Horschel, Billy",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-1.944,0.75,-1.781,289.6,0.714
+"Horschel, Billy",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,0.483,-0.954,1.41,287.7,0.714
+"Horschel, Billy",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.42,2.695,-0.575,0.223,287.5,0.786
+"Spieth, Jordan",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,-0.719,-0.806,2.737,295.0,0.429
+"Spieth, Jordan",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-0.882,-0.573,0.708,300.5,0.5
+"Spieth, Jordan",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,0.011,-0.508,-0.169,303.9,0.571
+"Spieth, Jordan",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,-0.6,-0.555,0.334,298.2,0.786
+"Palmer, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,1.615,-0.433,-0.647,299.6,0.786
+"Palmer, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,0.304,-0.043,-0.936,295.1,0.571
+"Palmer, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,0.065,0.386,-1.065,298.8,0.786
+"Palmer, Ryan",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-3.066,-0.627,2.491,297.6,0.714
+"Merritt, Troy",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,0.584,-0.092,-0.543,284.1,0.786
+"Merritt, Troy",Medinah Country Club (No. 3),2019,2019-08-18,72,76,-5.652,-0.668,-2.349,-1.389,284.8,0.357
+"Merritt, Troy",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,1.156,-0.937,-1.386,280.8,0.786
+"Merritt, Troy",Medinah Country Club (No. 3),2019,2019-08-18,72,66,4.42,1.804,0.824,2.756,291.4,0.429
+"Bradley, Keegan",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,-2.144,1.205,0.668,301.0,0.643
+"Bradley, Keegan",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-3.652,-1.668,-2.769,-0.472,295.3,0.857
+"Bradley, Keegan",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,1.849,-1.596,0.305,300.3,0.857
+"Bradley, Keegan",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,-0.51,0.106,-1.226,301.3,0.643
+"Hadwin, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,0.625,0.025,1.802,285.0,0.643
+"Hadwin, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.348,1.401,-0.022,1.381,288.2,0.429
+"Hadwin, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,-2.069,-0.46,1.82,288.3,0.571
+"Hadwin, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,76,-5.58,-2.972,0.327,-1.654,278.3,0.714
+"Putnam, Andrew",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,-0.671,-0.222,-0.481,273.2,0.857
+"Putnam, Andrew",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,-0.2,0.285,1.857,284.4,0.571
+"Putnam, Andrew",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.333,-0.018,-1.103,-0.122,271.1,0.571
+"Putnam, Andrew",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,2.483,0.16,-1.441,282.3,0.714
+"Mickelson, Phil",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,-0.205,-0.214,1.001,299.7,0.571
+"Mickelson, Phil",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-1.415,-0.3,-1.254,303.1,0.643
+"Mickelson, Phil",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,0.722,0.545,0.165,304.4,0.357
+"Mickelson, Phil",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,0.086,-0.138,0.39,304.7,0.5
+"Lowry, Shane",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-2.406,1.172,-0.634,283.9,0.429
+"Lowry, Shane",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-3.652,-3.949,0.259,-0.039,292.1,0.571
+"Lowry, Shane",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,-3.166,3.116,0.692,303.9,0.786
+"Lowry, Shane",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.42,1.584,0.54,-0.029,286.6,0.5
+"DeChambeau, Bryson",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,-0.282,-1.402,-0.676,303.4,0.571
+"DeChambeau, Bryson",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,1.309,-0.486,0.064,299.6,0.5
+"DeChambeau, Bryson",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,-0.228,-0.829,-1.747,313.3,0.714
+"DeChambeau, Bryson",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,-1.294,0.728,0.22,295.4,0.571
+"Morikawa, Collin",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,-0.2,0.097,2.253,287.3,0.786
+"Morikawa, Collin",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,1.091,-1.186,-3.01,294.2,0.714
+"Morikawa, Collin",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.333,0.619,-0.382,-3.164,289.8,0.929
+"Morikawa, Collin",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,-0.288,0.461,-0.935,285.6,0.714
+"Rose, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.275,1.064,0.29,-0.25,304.0,0.571
+"Rose, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-2.408,0.158,-0.359,297.6,0.714
+"Rose, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.333,-0.332,1.351,-4.038,291.8,0.714
+"Rose, Justin",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,1.554,-0.518,-0.445,297.7,0.786
+"Kuchar, Matt",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,-0.862,0.844,0.497,272.2,0.571
+"Kuchar, Matt",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,-0.982,0.231,1.79,270.1,0.643
+"Kuchar, Matt",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.333,0.836,-1.054,-2.238,282.9,0.571
+"Kuchar, Matt",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.42,0.937,-0.597,0.417,288.4,0.643
+"Day, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,-1.938,-0.238,3.098,297.9,0.429
+"Day, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,-1.774,-1.066,1.77,303.9,0.5
+"Day, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.667,-2.084,0.375,2.407,310.0,0.571
+"Day, Jason",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-3.58,-1.067,-0.553,0.102,297.6,0.429
+"Frittelli, Dylan",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-0.326,-0.24,-1.333,281.8,0.5
+"Frittelli, Dylan",Medinah Country Club (No. 3),2019,2019-08-18,72,69,1.348,-0.729,-0.201,2.005,291.2,0.643
+"Frittelli, Dylan",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,-1.463,0.698,-0.974,290.4,0.857
+"Frittelli, Dylan",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,0.744,-1.124,-2.089,297.3,0.643
+"Mitchell, Keith",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-2.632,-0.154,-0.392,299.2,0.571
+"Mitchell, Keith",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-3.652,0.206,0.62,-3.409,296.3,0.571
+"Mitchell, Keith",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.667,2.005,1.904,-0.774,295.1,0.5
+"Mitchell, Keith",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,1.467,-1.061,0.21,295.1,0.286
+"Furyk, Jim",Medinah Country Club (No. 3),2019,2019-08-18,72,66,3.275,2.076,0.314,0.998,271.5,0.857
+"Furyk, Jim",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,0.39,-0.752,-0.377,276.6,0.571
+"Furyk, Jim",Medinah Country Club (No. 3),2019,2019-08-18,72,75,-5.333,-0.858,-0.396,-2.992,274.4,0.786
+"Furyk, Jim",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-1.474,0.06,0.995,271.3,0.714
+"McDowell, Graeme",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,0.848,0.065,0.022,280.6,0.643
+"McDowell, Graeme",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,-0.46,1.065,-1.241,285.0,0.643
+"McDowell, Graeme",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.333,-1.405,-0.225,1.476,292.4,0.357
+"McDowell, Graeme",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,1.415,-0.289,-0.824,289.9,0.643
+"Reavie, Chez",Medinah Country Club (No. 3),2019,2019-08-18,72,67,2.275,2.321,-1.072,1.556,276.9,0.714
+"Reavie, Chez",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.348,2.953,-0.25,0.324,285.5,0.714
+"Reavie, Chez",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-4.333,-2.431,-1.358,0.083,283.6,0.786
+"Reavie, Chez",Medinah Country Club (No. 3),2019,2019-08-18,72,76,-5.58,-1.906,-1.462,-2.188,278.2,0.857
+"Johnson, Dustin",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,-0.646,-1.345,1.567,312.7,0.571
+"Johnson, Dustin",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,-0.251,0.175,-2.105,312.8,0.429
+"Johnson, Dustin",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.333,-3.138,-0.03,-0.433,312.4,0.714
+"Johnson, Dustin",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,-2.542,1.779,-1.721,305.3,0.5
+"Molinari, Francesco",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-1.357,-0.583,-0.396,293.0,0.714
+"Molinari, Francesco",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-1.95,0.041,-0.905,294.4,0.571
+"Molinari, Francesco",Medinah Country Club (No. 3),2019,2019-08-18,72,68,1.667,0.265,0.576,1.839,282.8,0.714
+"Molinari, Francesco",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.58,-2.0,-0.257,0.395,287.6,0.786
+"Homa, Max",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.725,1.52,-0.639,-1.367,297.8,0.643
+"Homa, Max",Medinah Country Club (No. 3),2019,2019-08-18,72,67,3.348,2.258,0.36,0.487,295.2,0.571
+"Homa, Max",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,-2.112,0.424,0.014,299.0,0.714
+"Homa, Max",Medinah Country Club (No. 3),2019,2019-08-18,72,78,-7.58,-4.276,-0.31,-3.581,298.1,0.714
+"Cabrera Bello, Rafa",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,0.197,-0.464,-0.225,288.8,0.929
+"Cabrera Bello, Rafa",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.652,-1.196,1.137,-1.61,285.9,0.643
+"Cabrera Bello, Rafa",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-4.333,-1.27,-0.798,-1.478,283.6,0.571
+"Cabrera Bello, Rafa",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-0.858,1.705,-1.468,291.8,0.5
+"Kang, Sung",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,0.731,-0.075,-0.619,293.9,0.643
+"Kang, Sung",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-0.191,0.818,-3.421,291.6,0.714
+"Kang, Sung",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-3.333,-2.858,-0.288,-0.447,301.1,0.571
+"Kang, Sung",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,1.58,0.642,-4.426,304.7,0.571
+"Holmes, J.B.",Medinah Country Club (No. 3),2019,2019-08-18,72,69,0.275,0.769,1.396,-1.51,302.2,0.429
+"Holmes, J.B.",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.652,2.123,-0.156,-1.792,300.9,0.357
+"Holmes, J.B.",Medinah Country Club (No. 3),2019,2019-08-18,72,76,-6.333,-2.136,-1.119,-3.139,301.8,0.5
+"Holmes, J.B.",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-3.101,1.041,-0.284,305.7,0.643
+"Long, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-1.124,-0.491,-0.982,279.2,0.857
+"Long, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,70,0.348,2.33,-0.341,-1.178,281.4,0.714
+"Long, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,0.805,0.126,-0.997,289.8,0.643
+"Long, Adam",Medinah Country Club (No. 3),2019,2019-08-18,72,75,-4.58,0.044,-2.493,-1.921,285.9,0.571
+"Champ, Cameron",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.725,-1.026,0.251,-2.577,324.3,0.5
+"Champ, Cameron",Medinah Country Club (No. 3),2019,2019-08-18,72,68,2.348,0.795,0.434,-0.866,324.5,0.571
+"Champ, Cameron",Medinah Country Club (No. 3),2019,2019-08-18,72,78,-8.333,-3.418,-2.022,-2.415,326.2,0.357
+"Champ, Cameron",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-0.58,-2.831,-0.423,0.409,323.1,0.714
+"Varner III, Harold",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,-0.486,0.227,-1.979,283.2,0.5
+"Varner III, Harold",Medinah Country Club (No. 3),2019,2019-08-18,72,74,-3.652,-2.892,0.097,-1.64,293.4,0.786
+"Varner III, Harold",Medinah Country Club (No. 3),2019,2019-08-18,72,71,-1.333,-0.415,0.046,-0.898,287.8,0.643
+"Varner III, Harold",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-1.58,-0.052,-1.361,-1.075,297.7,0.714
+"Lashley, Nate",Medinah Country Club (No. 3),2019,2019-08-18,72,72,-2.725,0.104,-0.586,-1.768,284.2,0.714
+"Lashley, Nate",Medinah Country Club (No. 3),2019,2019-08-18,72,73,-2.652,-1.253,-0.392,-0.867,287.7,0.643
+"Lashley, Nate",Medinah Country Club (No. 3),2019,2019-08-18,72,70,-0.333,0.224,-0.552,0.821,281.6,0.714
+"Lashley, Nate",Medinah Country Club (No. 3),2019,2019-08-18,72,76,-5.58,-1.444,-0.05,-4.545,291.7,0.786
+"McIlroy, Rory",East Lake Golf Club,2019,2019-08-25,70,66,3.233,1.568,0.359,0.471,317.7,0.5
+"McIlroy, Rory",East Lake Golf Club,2019,2019-08-25,70,67,3.467,-0.129,1.648,0.678,323.8,0.5
+"McIlroy, Rory",East Lake Golf Club,2019,2019-08-25,70,68,2.1,1.581,0.038,-1.339,307.9,0.857
+"McIlroy, Rory",East Lake Golf Club,2019,2019-08-25,70,66,4.333,0.167,0.421,2.355,308.9,0.714
+"Schauffele, Xander",East Lake Golf Club,2019,2019-08-25,70,64,5.233,2.759,1.159,0.761,306.1,0.571
+"Schauffele, Xander",East Lake Golf Club,2019,2019-08-25,70,69,1.467,1.104,-0.745,-0.215,312.1,0.643
+"Schauffele, Xander",East Lake Golf Club,2019,2019-08-25,70,67,3.1,3.035,-0.947,1.264,291.6,0.5
+"Schauffele, Xander",East Lake Golf Club,2019,2019-08-25,70,70,0.333,1.155,0.557,-0.167,302.9,0.357
+"Koepka, Brooks",East Lake Golf Club,2019,2019-08-25,70,67,2.233,1.89,0.265,0.602,316.0,0.429
+"Koepka, Brooks",East Lake Golf Club,2019,2019-08-25,70,67,3.467,0.907,-0.571,2.366,314.2,0.571
+"Koepka, Brooks",East Lake Golf Club,2019,2019-08-25,70,68,2.1,0.28,0.795,0.404,309.9,0.643
+"Koepka, Brooks",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,1.669,0.452,-1.625,306.8,0.357
+"Thomas, Justin",East Lake Golf Club,2019,2019-08-25,70,70,-0.767,-3.028,2.303,-0.808,310.8,0.429
+"Thomas, Justin",East Lake Golf Club,2019,2019-08-25,70,68,2.467,1.543,-0.427,0.673,305.5,0.5
+"Thomas, Justin",East Lake Golf Club,2019,2019-08-25,70,71,-0.9,-1.523,1.737,-2.257,299.9,0.786
+"Thomas, Justin",East Lake Golf Club,2019,2019-08-25,70,68,2.333,0.974,0.122,0.237,302.8,0.5
+"Casey, Paul",East Lake Golf Club,2019,2019-08-25,70,66,3.233,2.96,0.76,-1.442,300.4,0.786
+"Casey, Paul",East Lake Golf Club,2019,2019-08-25,70,67,3.467,0.102,-0.914,3.407,304.4,0.571
+"Casey, Paul",East Lake Golf Club,2019,2019-08-25,70,68,2.1,0.745,0.52,0.693,293.7,0.5
+"Casey, Paul",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,-0.573,0.261,-1.316,300.4,0.429
+"Scott, Adam",East Lake Golf Club,2019,2019-08-25,70,68,1.233,1.924,-0.93,1.54,304.6,0.5
+"Scott, Adam",East Lake Golf Club,2019,2019-08-25,70,70,0.467,0.408,-0.285,0.626,305.6,0.5
+"Scott, Adam",East Lake Golf Club,2019,2019-08-25,70,71,-0.9,0.788,-0.867,-1.023,293.3,0.571
+"Scott, Adam",East Lake Golf Club,2019,2019-08-25,70,66,4.333,1.729,1.378,1.265,302.0,0.357
+"Finau, Tony",East Lake Golf Club,2019,2019-08-25,70,70,-0.767,-0.537,-0.531,0.578,297.1,0.5
+"Finau, Tony",East Lake Golf Club,2019,2019-08-25,70,69,1.467,1.413,-0.906,0.338,305.3,0.643
+"Finau, Tony",East Lake Golf Club,2019,2019-08-25,70,70,0.1,-0.761,0.609,0.768,290.0,0.357
+"Finau, Tony",East Lake Golf Club,2019,2019-08-25,70,67,3.333,-0.207,1.43,0.905,300.5,0.786
+"Reavie, Chez",East Lake Golf Club,2019,2019-08-25,70,71,-1.767,-0.146,0.125,-2.086,289.3,0.786
+"Reavie, Chez",East Lake Golf Club,2019,2019-08-25,70,64,6.467,4.0,1.251,0.266,294.1,0.929
+"Reavie, Chez",East Lake Golf Club,2019,2019-08-25,70,70,0.1,1.36,0.482,-1.599,282.0,0.643
+"Reavie, Chez",East Lake Golf Club,2019,2019-08-25,70,70,0.333,-0.388,0.201,0.325,282.1,0.714
+"Kisner, Kevin",East Lake Golf Club,2019,2019-08-25,70,71,-1.767,-1.646,-0.952,0.299,292.1,0.714
+"Kisner, Kevin",East Lake Golf Club,2019,2019-08-25,70,70,0.467,-0.621,1.175,0.415,287.4,0.571
+"Kisner, Kevin",East Lake Golf Club,2019,2019-08-25,70,68,2.1,1.362,-0.764,2.336,287.7,0.357
+"Kisner, Kevin",East Lake Golf Club,2019,2019-08-25,70,68,2.333,-0.066,1.076,1.173,283.6,0.714
+"Matsuyama, Hideki",East Lake Golf Club,2019,2019-08-25,70,66,3.233,-1.161,0.211,4.162,303.4,0.429
+"Matsuyama, Hideki",East Lake Golf Club,2019,2019-08-25,70,75,-4.533,-1.039,0.492,-1.835,303.0,0.357
+"Matsuyama, Hideki",East Lake Golf Club,2019,2019-08-25,70,66,4.1,4.486,0.611,-0.415,301.3,0.357
+"Matsuyama, Hideki",East Lake Golf Club,2019,2019-08-25,70,71,-0.667,0.666,0.408,-1.325,310.2,0.429
+"Reed, Patrick",East Lake Golf Club,2019,2019-08-25,70,70,-0.767,-0.346,0.851,-1.433,302.0,0.429
+"Reed, Patrick",East Lake Golf Club,2019,2019-08-25,70,70,0.467,0.2,0.504,0.107,293.8,0.357
+"Reed, Patrick",East Lake Golf Club,2019,2019-08-25,70,73,-2.9,-2.901,-1.585,2.068,297.4,0.571
+"Reed, Patrick",East Lake Golf Club,2019,2019-08-25,70,68,2.333,0.277,1.783,0.111,300.0,0.5
+"DeChambeau, Bryson",East Lake Golf Club,2019,2019-08-25,70,68,1.233,1.707,-0.978,-0.017,303.9,0.786
+"DeChambeau, Bryson",East Lake Golf Club,2019,2019-08-25,70,71,-0.533,-0.422,-0.19,-0.718,303.8,0.643
+"DeChambeau, Bryson",East Lake Golf Club,2019,2019-08-25,70,67,3.1,0.896,0.144,2.112,309.1,0.5
+"DeChambeau, Bryson",East Lake Golf Club,2019,2019-08-25,70,70,0.333,-1.442,-0.629,1.51,301.6,0.643
+"Rahm, Jon",East Lake Golf Club,2019,2019-08-25,70,68,1.233,1.75,-0.839,-0.629,309.2,0.643
+"Rahm, Jon",East Lake Golf Club,2019,2019-08-25,70,72,-1.533,1.206,-0.18,-1.274,304.3,0.429
+"Rahm, Jon",East Lake Golf Club,2019,2019-08-25,70,68,2.1,1.668,0.504,0.299,301.1,0.429
+"Rahm, Jon",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,1.352,-0.804,-0.494,295.7,0.5
+"Kokrak, Jason",East Lake Golf Club,2019,2019-08-25,70,71,-1.767,-0.377,0.774,-0.17,309.2,0.286
+"Kokrak, Jason",East Lake Golf Club,2019,2019-08-25,70,67,3.467,1.253,0.026,0.774,309.2,0.714
+"Kokrak, Jason",East Lake Golf Club,2019,2019-08-25,70,72,-1.9,1.941,-1.73,-2.041,302.3,0.5
+"Kokrak, Jason",East Lake Golf Club,2019,2019-08-25,70,67,3.333,2.099,1.351,-0.77,298.2,0.714
+"Woodland, Gary",East Lake Golf Club,2019,2019-08-25,70,68,1.233,2.059,0.126,-1.522,296.0,0.643
+"Woodland, Gary",East Lake Golf Club,2019,2019-08-25,70,73,-2.533,-2.045,0.339,-0.945,294.8,0.571
+"Woodland, Gary",East Lake Golf Club,2019,2019-08-25,70,69,1.1,0.644,1.724,0.897,293.0,0.286
+"Woodland, Gary",East Lake Golf Club,2019,2019-08-25,70,71,-0.667,0.371,-0.213,-0.819,294.7,0.714
+"Fleetwood, Tommy",East Lake Golf Club,2019,2019-08-25,70,69,0.233,0.968,0.388,-1.78,298.8,0.5
+"Fleetwood, Tommy",East Lake Golf Club,2019,2019-08-25,70,70,0.467,2.583,1.351,-2.258,297.9,0.643
+"Fleetwood, Tommy",East Lake Golf Club,2019,2019-08-25,70,71,-0.9,-1.126,0.237,-0.128,295.7,0.429
+"Fleetwood, Tommy",East Lake Golf Club,2019,2019-08-25,70,70,0.333,-1.545,0.23,0.611,301.9,0.714
+"Kuchar, Matt",East Lake Golf Club,2019,2019-08-25,70,66,3.233,-0.148,1.651,2.193,295.0,0.571
+"Kuchar, Matt",East Lake Golf Club,2019,2019-08-25,70,72,-1.533,-2.973,-1.723,2.995,293.9,0.714
+"Kuchar, Matt",East Lake Golf Club,2019,2019-08-25,70,71,-0.9,-1.97,-0.314,2.281,277.0,0.571
+"Kuchar, Matt",East Lake Golf Club,2019,2019-08-25,70,74,-3.667,0.121,0.199,-3.182,283.0,0.429
+"Simpson, Webb",East Lake Golf Club,2019,2019-08-25,70,74,-4.767,-2.864,-0.624,2.589,295.3,0.071
+"Simpson, Webb",East Lake Golf Club,2019,2019-08-25,70,70,0.467,-3.291,1.656,3.295,291.3,0.571
+"Simpson, Webb",East Lake Golf Club,2019,2019-08-25,70,68,2.1,1.659,-1.092,1.291,292.4,0.714
+"Simpson, Webb",East Lake Golf Club,2019,2019-08-25,70,71,-0.667,1.65,-0.774,-1.583,289.9,0.714
+"Im, Sungjae",East Lake Golf Club,2019,2019-08-25,70,67,2.233,-0.198,-1.023,3.051,300.4,0.571
+"Im, Sungjae",East Lake Golf Club,2019,2019-08-25,70,71,-0.533,0.893,-1.095,-0.608,302.6,0.571
+"Im, Sungjae",East Lake Golf Club,2019,2019-08-25,70,73,-2.9,-3.406,-1.072,3.307,296.8,0.429
+"Im, Sungjae",East Lake Golf Club,2019,2019-08-25,70,70,0.333,-2.993,1.539,1.317,301.2,0.571
+"Fowler, Rickie",East Lake Golf Club,2019,2019-08-25,70,71,-1.767,-3.069,0.489,1.785,301.8,0.357
+"Fowler, Rickie",East Lake Golf Club,2019,2019-08-25,70,71,-0.533,0.214,-0.034,0.112,296.6,0.429
+"Fowler, Rickie",East Lake Golf Club,2019,2019-08-25,70,70,0.1,-0.568,-0.331,0.472,300.3,0.571
+"Fowler, Rickie",East Lake Golf Club,2019,2019-08-25,70,70,0.333,-1.69,-0.612,1.644,303.5,0.571
+"Oosthuizen, Louis",East Lake Golf Club,2019,2019-08-25,70,70,-0.767,-1.126,0.075,-0.278,297.6,0.643
+"Oosthuizen, Louis",East Lake Golf Club,2019,2019-08-25,70,71,-0.533,-1.391,-1.044,1.353,302.8,0.571
+"Oosthuizen, Louis",East Lake Golf Club,2019,2019-08-25,70,70,0.1,-0.027,-1.911,1.051,294.2,0.714
+"Oosthuizen, Louis",East Lake Golf Club,2019,2019-08-25,70,70,0.333,-0.738,-0.12,1.487,289.8,0.5
+"Ancer, Abraham",East Lake Golf Club,2019,2019-08-25,70,72,-2.767,-0.776,-1.147,-1.173,294.3,0.714
+"Ancer, Abraham",East Lake Golf Club,2019,2019-08-25,70,69,1.467,1.715,0.241,-1.015,301.8,0.643
+"Ancer, Abraham",East Lake Golf Club,2019,2019-08-25,70,72,-1.9,-2.123,-0.007,0.209,288.4,0.571
+"Ancer, Abraham",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,-0.776,-0.781,-0.708,292.7,0.714
+"Cantlay, Patrick",East Lake Golf Club,2019,2019-08-25,70,70,-0.767,3.995,-1.761,-2.239,311.1,0.286
+"Cantlay, Patrick",East Lake Golf Club,2019,2019-08-25,70,71,-0.533,0.874,-0.403,-1.086,309.8,0.571
+"Cantlay, Patrick",East Lake Golf Club,2019,2019-08-25,70,75,-4.9,-2.303,1.104,-2.54,292.3,0.357
+"Cantlay, Patrick",East Lake Golf Club,2019,2019-08-25,70,73,-2.667,-1.698,0.578,-0.975,294.5,0.5
+"Leishman, Marc",East Lake Golf Club,2019,2019-08-25,70,71,-1.767,-1.91,0.955,-1.335,290.9,0.786
+"Leishman, Marc",East Lake Golf Club,2019,2019-08-25,70,73,-2.533,-0.843,-0.121,-0.342,290.0,0.357
+"Leishman, Marc",East Lake Golf Club,2019,2019-08-25,70,72,-1.9,0.775,-0.033,-2.209,291.4,0.5
+"Leishman, Marc",East Lake Golf Club,2019,2019-08-25,70,67,3.333,1.163,0.904,1.682,290.8,0.429
+"Snedeker, Brandt",East Lake Golf Club,2019,2019-08-25,70,73,-3.767,-0.581,-0.663,-1.45,285.8,0.643
+"Snedeker, Brandt",East Lake Golf Club,2019,2019-08-25,70,72,-1.533,0.624,-0.074,-2.011,296.1,0.5
+"Snedeker, Brandt",East Lake Golf Club,2019,2019-08-25,70,67,3.1,1.686,0.91,0.006,296.8,0.643
+"Snedeker, Brandt",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,1.864,-2.23,-0.696,286.3,0.643
+"Conners, Corey",East Lake Golf Club,2019,2019-08-25,70,68,1.233,-0.251,0.334,0.095,299.1,0.714
+"Conners, Corey",East Lake Golf Club,2019,2019-08-25,70,71,-0.533,-0.958,0.612,0.127,301.4,0.429
+"Conners, Corey",East Lake Golf Club,2019,2019-08-25,70,71,-0.9,0.993,-0.01,-2.626,295.5,0.643
+"Conners, Corey",East Lake Golf Club,2019,2019-08-25,70,74,-3.667,0.919,-1.675,-4.228,300.7,0.786
+"Rose, Justin",East Lake Golf Club,2019,2019-08-25,70,68,1.233,1.676,0.521,-0.473,303.2,0.5
+"Rose, Justin",East Lake Golf Club,2019,2019-08-25,70,74,-3.533,-0.25,0.717,-3.128,294.2,0.571
+"Rose, Justin",East Lake Golf Club,2019,2019-08-25,70,71,-0.9,1.126,0.417,-3.209,301.1,0.571
+"Rose, Justin",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,-0.065,-2.517,1.141,291.9,0.643
+"Howell III, Charles",East Lake Golf Club,2019,2019-08-25,70,68,1.233,-0.487,0.496,1.409,298.2,0.643
+"Howell III, Charles",East Lake Golf Club,2019,2019-08-25,70,73,-2.533,-1.097,0.025,-1.653,303.5,0.571
+"Howell III, Charles",East Lake Golf Club,2019,2019-08-25,70,71,-0.9,-2.003,-0.422,1.228,300.6,0.714
+"Howell III, Charles",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,-0.754,-3.166,2.351,296.2,0.571
+"Glover, Lucas",East Lake Golf Club,2019,2019-08-25,70,73,-3.767,-2.519,-0.994,-1.006,300.9,0.714
+"Glover, Lucas",East Lake Golf Club,2019,2019-08-25,70,75,-4.533,-3.327,-1.043,0.963,296.1,0.286
+"Glover, Lucas",East Lake Golf Club,2019,2019-08-25,70,70,0.1,-2.184,1.016,1.919,296.9,0.286
+"Glover, Lucas",East Lake Golf Club,2019,2019-08-25,70,72,-1.667,-1.131,-0.384,-1.455,297.0,0.857
+"Johnson, Dustin",East Lake Golf Club,2019,2019-08-25,70,73,-3.767,-2.091,-1.41,-1.705,316.6,0.643
+"Johnson, Dustin",East Lake Golf Club,2019,2019-08-25,70,72,-1.533,-0.659,-0.289,-1.397,308.0,0.5
+"Johnson, Dustin",East Lake Golf Club,2019,2019-08-25,70,75,-4.9,-4.117,0.238,-3.208,321.8,0.643
+"Johnson, Dustin",East Lake Golf Club,2019,2019-08-25,70,73,-2.667,-2.124,1.006,1.219,310.0,0.286

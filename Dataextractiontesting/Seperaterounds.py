@@ -46,22 +46,26 @@ def extract_data(api_data):
                                    driving_dist_val, driving_acc_val])
     return extracted_data
 
-# Main function to fetch data, extract, and write to CSV
-def main(event_id, year, api_token):
-    api_data = fetch_data(event_id, year, api_token)
-    if api_data:
-        extracted_data = extract_data(api_data)
-        with open('Dataextractiontesting/dataextractiontest3.csv', mode='w', newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(['Player Name', 'Course Name', 'Year Played', 'Date Completed', 'Course Par',
-                             'Round Score', 'Round SG Total', 'Round SG App', 'Round SG Arg', 'Round SG Putt',
-                             'Round Driving Distance', 'Round Driving Accuracy'])
-            for data_row in extracted_data:
-                writer.writerow(data_row)
-        print("CSV file created successfully!")
+# Main function to fetch data, extract, and write to CSV for multiple event_ids
+def main(event_ids, year, api_token):
+    with open('Dataextractiontesting/dataextractiontest3.csv', mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Player Name', 'Course Name', 'Year Played', 'Date Completed', 'Course Par',
+                         'Round Score', 'Round SG Total', 'Round SG App', 'Round SG Arg', 'Round SG Putt',
+                         'Round Driving Distance', 'Round Driving Accuracy'])
 
-# Call main function with event_id, year, and API token
-event_id = "535"
-year = "2021"
+        for event_id in event_ids:
+            api_data = fetch_data(event_id, year, api_token)
+            if api_data:
+                extracted_data = extract_data(api_data)
+                for data_row in extracted_data:
+                    writer.writerow(data_row)
+
+    print("CSV file created successfully!")
+
+# Call main function with event_ids, year, and API token
+event_ids = ["14", "28", "7795", "60"]
+year = "2019"
 API_TOKEN = "d6b6280403a3d0f3b7917387aed7"  # Replace this with your actual API token
-main(event_id, year, API_TOKEN)
+main(event_ids, year, API_TOKEN)
+
