@@ -63,12 +63,12 @@ def main(event_ids, start_year, end_year, api_token):
 
     print("CSV file created successfully!")
 
-# Call main function with event_ids, year, and API token
+# Call main function with event_ids, start year, end year and API token
 event_ids = [2,3,4,5,6,7,9,10,11,12,13,14,16,18,19,21,23,26,27,
              28,30,32,33,34,41,47,54,60,88,100,117,457,464,472,
              475,478,480,483,493,518,522,524,525,527,528,
              534,540,541,547,7795]
 start_year = 2017
 end_year = 2024
-API_TOKEN = "d6b6280403a3d0f3b7917387aed7"  # Replace this with your actual API token
+API_TOKEN = "d6b6280403a3d0f3b7917387aed7"  
 main(event_ids, start_year, end_year, API_TOKEN)
