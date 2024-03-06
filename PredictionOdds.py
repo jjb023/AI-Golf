@@ -20,13 +20,14 @@ def extract_data(api_data):
         for player_data in api_data[model]:
             if isinstance(player_data, dict):  # Check if player_data is a dictionary
                 player_name = player_data.get('player_name')
+                win = player_data.get('win')
                 make_cut = player_data.get('make_cut')
                 top_10 = player_data.get('top_10')
                 top_15 = player_data.get('top_15')
                 top_20 = player_data.get('top_20')
                 top_30 = player_data.get('top_30')
                 top_5 = player_data.get('top_5')
-                win = player_data.get('win')
+
                 
                 extracted_data.append([player_name, win, top_5, top_10, top_15, top_20, top_30, make_cut])
             else:
