@@ -22,7 +22,7 @@ import random
 
 random.seed(1)
 # Load data
-df = pd.read_csv('/Users/archie/Downloads/KeyData_sorted.csv')
+df = pd.read_csv('KeyDataCleaned/KeyData_sorted.csv')
 
 # Sort the dataframe first by Player Name and then by Date Completed in ascending order to maintain the time series element
 df_sorted = df.sort_values(by=['Player Name', 'Date Completed'], ascending=[True, True])
