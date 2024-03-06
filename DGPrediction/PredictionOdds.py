@@ -40,7 +40,7 @@ def main(tour, add_position, odds_format, file_format, key):
     api_data = fetch_data(api_url)
     if api_data:
         extracted_data = extract_data(api_data)
-        with open('DGArnoldPalmerPrediction.csv', mode='w', newline='') as file:
+        with open('DGPrediction/DGArnoldPalmerPrediction.csv', mode='w', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(['Player Name', 'Win', 'Top 5', 'Top 10', 'Top 15', 'Top 20', 'Top 30', 'Make Cut'])
             for data_row in extracted_data:
