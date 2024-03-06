@@ -22,13 +22,13 @@ def extract_data(api_data):
                 player_name = player_data.get('player_name')
                 make_cut = player_data.get('make_cut')
                 top_10 = player_data.get('top_10')
-                top_17 = player_data.get('top_17')
+                top_15 = player_data.get('top_15')
                 top_20 = player_data.get('top_20')
-                top_23 = player_data.get('top_23')
+                top_30 = player_data.get('top_30')
                 top_5 = player_data.get('top_5')
                 win = player_data.get('win')
                 
-                extracted_data.append([player_name, win, top_5, top_10, top_17, top_20, top_23, make_cut])
+                extracted_data.append([player_name, win, top_5, top_10, top_15, top_20, top_30, make_cut])
             else:
                 print("Unexpected data format:", player_data)
     
@@ -41,14 +41,14 @@ def main(tour, add_position, odds_format, file_format, key):
         extracted_data = extract_data(api_data)
         with open('DGArnoldPalmerPrediction.csv', mode='w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(['Player Name', 'Win', 'Top 5', 'Top 10', 'Top 17', 'Top 20', 'Top 23', 'Make Cut'])
+            writer.writerow(['Player Name', 'Win', 'Top 5', 'Top 10', 'Top 15', 'Top 20', 'Top 30', 'Make Cut'])
             for data_row in extracted_data:
                 writer.writerow(data_row)
         print("CSV file created successfully!")
 
 # Set variables for each part of the URL
 tour = "pga"
-add_position = "17,23"
+add_position = "15,30"
 odds_format = "decimal"
 file_format = "json"
 key = "d6b6280403a3d0f3b7917387aed7"  # Replace 'API_TOKEN' with your actual API token
