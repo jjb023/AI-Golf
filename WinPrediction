@@ -1,0 +1,39 @@
+import pandas as pd
+import numpy as np
+
+file_path = "/Users/Home/Library/CloudStorage/OneDrive-UniversityofBristol/3rd Year/Intro to AI/player_mean_std_numApps.xlsx"
+df1 = pd.read_excel(file_path)
+
+Player_names = ["McIlroy, Rory", "Cantlay, Patrick", "Schauffele, Xander", "Scheffler, Scottie", "Fowler, Rickie", 
+                "Clark, Wyndham", "Homa, Max", "Aberg, Ludvig", "Spieth, Jordan", "Burns, Sam"]
+
+df2 = df1[df1["Player Name"].isin(Player_names)].copy()
+
+df2 = df2.sort_values(by="Player Name")
+
+df2 = df2.drop(df2.columns[[0, 2, 4]], axis=1)
+
+df2.insert(2, "Predicted Score", [0, 1, 0, 1, 0, 0, 0, 0, 0, 0])
+
+Rank = pd.DataFrame()
+Rank["Player Names"] = df2["Player Name"]
+
+num_trials = 1000
+
+for i in range(num_trials):
+    df2["Normal Distribution"] = df2["STD"].apply(lambda x: np.random.normal(0, x))
+    df2["Final Score"] = df2["Predicted Score"] + df2["Normal Distribution"]
+    df2["Rank"] = df2["Final Score"].rank(ascending=True, method="min")
+    Rank[f"Iteration_{i+1}"] = df2["Rank"]
+
+
+Rank["Mean Pos."] = Rank.iloc[:, 1:].mean(axis=1)
+Rank["Count of 1st"] = Rank.apply(lambda row: row.value_counts().get(1.0, 0), axis=1)
+
+Rank["Win Percentage"] = (Rank["Count of 1st"] / num_trials) * 100
+
+Final = Rank[["Player Names", "Win Percentage"]]
+
+# print(df2.head())
+# print(Rank.head())
+print(Final)
