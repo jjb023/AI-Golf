@@ -18,7 +18,6 @@
 
 ## Questions for TA
 - Ask about appendix - graphs, can we reference
-  appendix not included
 - What results should we show? how should we show them
 - Do we need reasoning for optimiser
 - Refs, abstract, title part of page count?
