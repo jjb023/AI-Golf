@@ -3,7 +3,7 @@
 ## *Marking Criteria*
 - clear problem you want to try and solve. You should also identify ways in which you can try to solve it (pros and cons)
 
-- define what the inputs to the system are, what needs to happen with them, and what the output will be.
+- define what the **inputs** to the system are, what needs to happen with them, and what the **output** will be.
 
 - For many projects evaluation may require collecting a dataset on which to test your system. Evaluation here may consist of metrics like accuracy, running time, memory usage, and how this compares to other approaches. More generally, you want to be able to produce some meaningful number that will convince others that your system is working as intended.
 
@@ -14,7 +14,16 @@
 
 - Lit review: Compare to other projects, why is it different (better?)
  
-- Evaluating: a baseline might be a very simple machine learning system, such as linear regression/classification, or the first simplest network you tried.
+- **Evaluating**: a baseline might be a very simple machine learning system, such as linear regression/classification, or the first simplest network you tried.
+
+## Questions for TA
+- Ask about appendix
+- What results should we show?
+
+## What results we want
+- Sequence length: Extending sequence length against error
+- Table of all computational times
+- Table of all MSE
 
 ## Links 
 - Data Golf (Loads of stats and data from lots of years) [DataGolf](https://datagolf.com/api-access)
