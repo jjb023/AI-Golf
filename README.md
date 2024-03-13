@@ -17,8 +17,13 @@
 - **Evaluating**: a baseline might be a very simple machine learning system, such as linear regression/classification, or the first simplest network you tried.
 
 ## Questions for TA
-- Ask about appendix
-- What results should we show?
+- Ask about appendix - graphs, can we reference
+- What results should we show? how should we show them
+- Do we need reasoning for optimiser
+- Refs, abstract, title part of page count?
+- Can we send draft
+- Have to use template
+- 
 
 ## What results we want
 - Sequence length: Extending sequence length against error
