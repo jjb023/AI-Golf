@@ -23,7 +23,7 @@
 - Refs, abstract, title part of page count?
 - Can we send draft
 - Have to use template
-- Mean squared error vs absolute error for shots ?
+- Mean squared error vs absolute error for shots?
 
 ## What results we want
 - Sequence length: Extending sequence length against error
