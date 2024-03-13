@@ -18,14 +18,25 @@
 
 ## Questions for TA
 - Ask about appendix - graphs, can we reference
+  make sure everything is in the report, appendix can be used but just for extras
 - What results should we show? how should we show them
+  
 - Do we need reasoning for optimiser
+  use fully connected cos lots of tabular data, have time data obvious lstm model
 - Refs, abstract, title part of page count?
+  abstract yes. refs no
 - Can we send draft
+  Yes
 - Have to use template
+  no, 
 - Mean squared error vs absolute error for shots?
-- Results section? 
-
+  RMSE root mean squared error
+- Results section?
+  loves the error bar graph with sequence length, do one for learning rate
+Use time to compute
+add all models into table might as well to say we compared on and built on linear
+dont need to expand lstm
+chose adamw as most common
 ## What results we want
 - Sequence length: Extending sequence length against error
 - Table of all computational times
