@@ -1,0 +1,94 @@
+import pandas as pd
+import torch
+import torch.nn as nn
+from sklearn.preprocessing import StandardScaler
+import matplotlib.pyplot as plt
+
+scaler = StandardScaler()
+
+# Upload the input CSV file
+from google.colab import files
+uploaded = files.upload()
+
+# Read the uploaded file
+df = pd.read_csv('KeyData_sorted_10.csv')
+
+
+# Define columns to keep
+columns_to_keep = ['Course Name', 
+                   'Round Score', 'Round SG Total', 'Round SG App',
+                   'Round SG Arg', 'Round SG Putt', 'Round Driving Distance',
+                   'Round Driving Accuracy']
+
+# Drop columns not in columns_to_keep
+df = df[columns_to_keep]
+
+# Fill missing values with column means
+df.fillna(df.mean(), inplace=True)
+
+# One-hot encoding for 'Course Name'
+df_encoded = pd.get_dummies(df, columns=['Course Name'])
+
+# Split the dataset to test on the first 10 rows
+test_df = df_encoded.iloc[:10]  # First 10 rows for testing
+train_df = df_encoded.iloc[10:]  # Remaining rows for training
+
+# Separate features and target variable for training and test set
+train_Y = train_df['Round Score']
+train_X = train_df.drop('Round Score', axis=1)
+test_Y = test_df['Round Score']
+test_X = test_df.drop('Round Score', axis=1)
+
+# Standardize features
+scaler = StandardScaler().fit(train_X)
+train_X_scaled = scaler.transform(train_X)
+test_X_scaled = scaler.transform(test_X)
+
+# Convert to tensors
+train_X_tensor = torch.tensor(train_X_scaled, dtype=torch.float32)
+train_Y_tensor = torch.tensor(train_Y.values, dtype=torch.float32).view(-1, 1)
+test_X_tensor = torch.tensor(test_X_scaled, dtype=torch.float32)
+test_Y_tensor = torch.tensor(test_Y.values, dtype=torch.float32).view(-1, 1)
+
+# Define the neural network
+class SimpleRegressionNet(nn.Module):
+    def __init__(self, input_size):
+        super(SimpleRegressionNet, self).__init__()
+        self.fc1 = nn.Linear(input_size, 128)
+        self.fc2 = nn.Linear(128, 64)
+        self.fc3 = nn.Linear(64, 1)
+
+    def forward(self, x):
+        x = torch.relu(self.fc1(x))
+        x = torch.relu(self.fc2(x))
+        x = self.fc3(x)
+        return x
+
+# Initialize the network
+net = SimpleRegressionNet(input_size=train_X.shape[1])
+
+# Loss and optimizer
+criterion = nn.MSELoss()
+optimizer = torch.optim.Adam(net.parameters(), lr=0.01)
+
+# Training loop
+epochs = 200
+for epoch in range(epochs):
+    optimizer.zero_grad()
+    outputs = net(train_X_tensor)
+    loss = criterion(outputs, train_Y_tensor)
+    loss.backward()
+    optimizer.step()
+
+    if (epoch+1) % 10 == 0:
+        print(f'Epoch [{epoch+1}/{epochs}], Loss: {loss.item():.4f}')
+
+# Evaluate on the first 10 rows
+net.eval()
+with torch.no_grad():
+    predictions = net(test_X_tensor).view(-1)
+    predictions = predictions.numpy()
+
+# Compare predictions with actual scores
+comparison = pd.DataFrame({'Actual Score': test_Y.values, 'Predicted Score': predictions})
+print(comparison)
