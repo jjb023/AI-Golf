@@ -20,7 +20,7 @@
 To Email:
 - Table of parameters in the appendix
 
-
+From meeting:
 - Ask about appendix - graphs, can we reference
   make sure everything is in the report, appendix can be used but just for extras
 - What results should we show? how should we show them
