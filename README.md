@@ -17,6 +17,10 @@
 - **Evaluating**: a baseline might be a very simple machine learning system, such as linear regression/classification, or the first simplest network you tried.
 
 ## Questions for TA
+To Email:
+- Table of parameters in the appendix
+
+
 - Ask about appendix - graphs, can we reference
   make sure everything is in the report, appendix can be used but just for extras
 - What results should we show? how should we show them
