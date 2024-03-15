@@ -1,0 +1,27 @@
+import time
+
+# ...
+
+# Train the linear regression model and measure the computational time
+start_time = time.time()
+regression_model = LinearRegression()
+regression_model.fit(X_train, Y_train)
+end_time = time.time()
+linear_regression_time = end_time - start_time
+
+# Train the decision tree model and measure the computational time
+start_time = time.time()
+decision_tree_model = DecisionTreeRegressor()
+decision_tree_model.fit(X_train, Y_train)
+end_time = time.time()
+decision_tree_time = end_time - start_time
+
+# ...
+
+print("Linear Regression MSE:", LR_RMSE)
+print("Decision Tree MSE:", DT_MSE)
+print("Linear Regression Computational Time:", linear_regression_time)
+print("Decision Tree Computational Time:", decision_tree_time)
+print(Results)
+
+# ...
