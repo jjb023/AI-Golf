@@ -127,7 +127,14 @@ axs[1, 1].set_ylim([-7, 7])
 
 # Adjust the spacing between subplots
 plt.tight_layout()
+import psutil
 
+def print_memory_usage():
+    process = psutil.Process()
+    memory_info = process.memory_info()
+    print(f"Memory Usage: {memory_info.rss / (1024 * 1024):.2f} MB")
+
+print_memory_usage()
 # Display the plot
 plt.show()
 
