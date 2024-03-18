@@ -20,6 +20,8 @@
 To Email:
 - Table of parameters in the appendix
 - Last bit of further work, optimal sequence length
+- paragraph about RNNs in lit review - necessary
+- 
 
 From meeting:
 - Ask about appendix - graphs, can we reference
