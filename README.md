@@ -19,6 +19,7 @@
 ## Questions for TA
 To Email:
 - Table of parameters in the appendix
+- Last bit of further work, optimal sequence length
 
 From meeting:
 - Ask about appendix - graphs, can we reference
