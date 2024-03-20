@@ -125,5 +125,5 @@ def main(event_id, year, api_token):
 # Call main function with event_id, year, and API token
 event_id = "535"
 year = "2021"
-API_TOKEN = "d6b6280403a3d0f3b7917387aed7"  # Replace this with your actual API token
+API_TOKEN = "api"  # Replace this with your actual API token
 main(event_id, year, API_TOKEN)

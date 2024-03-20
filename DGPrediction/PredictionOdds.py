@@ -52,7 +52,7 @@ tour = "pga"
 add_position = "15,30"
 odds_format = "decimal"
 file_format = "json"
-key = "d6b6280403a3d0f3b7917387aed7"  # Replace 'API_TOKEN' with your actual API token
+key = "api"  # Replace 'API_TOKEN' with your actual API token
 
 # Call main function with the URL parts
 main(tour, add_position, odds_format, file_format, key)

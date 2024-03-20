@@ -4,7 +4,7 @@ import csv
 from requests.api import head
 
 
-api_key = "d6b6280403a3d0f3b7917387aed7"
+api_key = "api"
 api_url = "https://feeds.datagolf.com/historical-raw-data/rounds?tour=pga"
 
 parameters = {

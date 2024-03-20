@@ -70,5 +70,5 @@ event_ids = [2,3,4,5,6,7,9,10,11,12,13,14,16,18,19,21,23,26,27,
              534,540,541,547,7795]
 start_year = 2017
 end_year = 2024
-API_TOKEN = "d6b6280403a3d0f3b7917387aed7"  
+API_TOKEN = "api"  
 main(event_ids, start_year, end_year, API_TOKEN)

@@ -66,6 +66,6 @@ def main(event_ids, year, api_token):
 # Call main function with event_ids, year, and API token
 event_ids = ["14", "28", "7795", "60"]
 year = "2019"
-API_TOKEN = "d6b6280403a3d0f3b7917387aed7"  # Replace this with your actual API token
+API_TOKEN = "api"  # Replace this with your actual API token
 main(event_ids, year, API_TOKEN)
 

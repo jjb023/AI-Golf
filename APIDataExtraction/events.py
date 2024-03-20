@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 
-url = 'https://feeds.datagolf.com/historical-raw-data/event-list?file_format=[ file_format ]&key=d6b6280403a3d0f3b7917387aed7'
+url = 'https://feeds.datagolf.com/historical-raw-data/event-list?file_format=[ file_format ]&key=api'
 
 r = requests.get(url)
 data = json.loads(r.text)
