@@ -1,4 +1,4 @@
-# AI-Golf
+# AI-Golf [View the REPORT](Report.pdf)
 
 ## *Marking Criteria*
 - clear problem you want to try and solve. You should also identify ways in which you can try to solve it (pros and cons)
